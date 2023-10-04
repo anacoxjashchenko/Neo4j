@@ -1,0 +1,2161 @@
+﻿codigo;nome
+0;Profilaxia de eventos cardiovasculares
+1;Fibrilação atrial
+2;Diabetes mellitus
+3;Profilaxia
+4;Insuficiência cardíaca
+5;Hipertensão
+6;Esclerose múltipla
+7;Produto utilizado para indicação desconhecida
+8;Mielofibrose
+11;Alopecia
+12;Infecção pelo HIV
+13;Câncer de próstata
+14;Osteoporose
+15;Lipoproteína de baixa densidade aumentada
+16;Aumento do colesterol no sangue
+18;Leucemia mieloide crônica
+19;Asma
+20;Diminuição da frequência respiratória
+21;Neuropatia periférica
+23;Dor
+24;Diabetes mellitus tipo 2
+25;Esquizofrenia
+26;Infecção por Enterobacter
+27;Úlcera gástrica
+28;Extrassístoles ventriculares
+29;Protrusão do disco intervertebral
+32;Ptose palpebral
+33;Diarreia
+35;Tentativa de suicídio
+36;Depressão
+37;Psoríase
+38;Hipotiroidismo
+39;Dispepsia
+40;Terapia antidepressiva
+46;Incontinência urinária
+47;Manutenção rotineira da saúde
+48;Linfoma de células B
+49;Distúrbio cardíaco
+50;Hipercolesterolemia
+51;Terapia analgésica
+52;Câncer de mama
+54;Alergias múltiplas
+55;Doença do refluxo gastroesofágico
+56;Dispneia
+57;Neuralgia
+58;Insónia
+60;Disfagia
+61;Flatulência
+62;Pressão arterial anormal
+63;Artroplastia articular
+64;Artroplastia de joelho
+65;Operação do joelho
+66;Melanoma maligno metastático
+67;Pré-medicação
+68;Artroplastia de quadril
+69;Síndrome hipereosinofílica
+70;Esclerose múltipla remitente-recorrente
+71;Artrite reumatoide
+72;Doença renal
+74;Melanoma maligno
+75;Ansiedade
+76;Herpes zoster
+77;Artropatia psoriásica
+80;Hipertensão arterial pulmonar
+82;Profilaxia contra úlcera gastrointestinal
+83;Artralgia
+84;Doença autoimune
+85;Doença pulmonar intersticial
+86;Dermatomiosite
+87;Insuficiência cardíaca congestiva
+88;Constipação
+90;Úlcera cutânea
+91;Infecção pulmonar
+93;Lúpus eritematoso sistêmico
+94;Transtorno esquizoafetivo
+95;Transtorno bipolar
+96;Transtorno de estresse pós-traumático
+99;Reação anafilática
+100;Convulsão
+101;Hipovitaminose
+102;Epilepsia
+103;Distúrbio gástrico
+104;Densidade óssea diminuída
+105;Distúrbio ósseo
+106;Colesterol no sangue
+107;Fibrose cística
+109;Pneumonia
+111;Pneumonia viral
+114;Transtorno psicótico
+118;Síndrome do túnel do carpo
+121;Dislipidemia
+123;Transtorno sinusal
+124;Trombose venosa profunda
+125;Trombose
+126;Síndrome mielodisplásica
+127;Infecção por rinovírus
+129;Transplante renal
+130;Doença pulmonar obstrutiva crônica
+131;Inflamação
+132;Mieloma de células plasmáticas
+134;Arritmia
+135;Dor nas costas
+136;Olho seco
+137;Glaucoma
+138;Profilaxia de infecção
+139;Metástases para osso
+140;Suplementação mineral
+141;Profilaxia da trombose
+142;Profilaxia do acidente vascular cerebral
+143;Espasmos musculares
+144;Distúrbio do sono
+146;Contagem de hemácias diminuída
+147;Diminuição do ferro no sangue
+148;Febre
+149;Leucemia linfocítica aguda
+151;Hiperglicemia
+152;Edema cerebral
+153;Neutropenia
+155;Trombocitopenia
+156;Profilaxia antiviral
+158;Neoplasia maligna pulmonar
+159;Medida da pressão arterial
+160;Rejeição de transplante
+162;Diverticulite
+163;Hiperlipidemia
+164;Miopatia
+166;Uso off label
+167;Doença ocular
+169;Doença de Parkinson
+172;Osteopenia
+173;Osteoporose pós-menopausa
+176;Disfunção erétil
+178;Acidente vascular cerebral
+181;Transtorno de déficit de atenção/hiperatividade
+182;Comportamento anormal
+185;Infeção
+186;Síndrome de disfunção de múltiplos órgãos
+187;Carcinoma de células renais metastático
+188;Massa intestinal
+189;Câncer de ovário
+190;Dor abdominal
+192;Afrontamento
+193;Suores noturnos
+194;Tumor neuroendócrino pancreático
+197;Altura corporal abaixo do normal
+198;Púrpura trombocitopênica imune
+202;Carcinoma basocelular
+203;Suplementação nutricional
+204;Anemia
+206;Hipertensão pulmonar
+208;Convulsão tônico-clônica generalizada
+209;Glicemia anormal
+210;Hipersensibilidade
+212;Doença hepática
+213;Gastrite
+215;Pielonefrite
+217;Transtorno afetivo
+218;Artrite
+219;Câncer colorretal metastático
+220;Câncer colorretal
+221;Náusea
+222;Tosse
+223;Fibromialgia
+224;Vertigem
+225;Retenção de líquidos
+227;Enxaqueca
+229;Terapia anticoagulante
+230;Distúrbio pulmonar
+231;Tontura
+233;Comprometimento da memória
+234;Hipocalcemia
+235;Função hepática anormal
+236;Doença do enxerto contra o hospedeiro
+237;Compromisso renal
+238;Astenia
+240;Distúrbio venoso
+241;Distúrbio da tireoide
+242;Dor de cabeça
+244;O fenômeno de Raynaud
+246;Osteoartrose
+247;Linfoma não-Hodgkin
+248;Leucopenia
+249;Vómito
+250;Profilaxia de náuseas e vômitos
+252;Sono de má qualidade
+253;Neoplasia
+255;Mialgia
+257;Doença de Crohn
+258;Terapia sedativa
+260;Desconforto abdominal
+261;Depressão maior
+264;Obstrução intestinal
+265;Bronquite
+266;Diabetes mellitus tipo 1
+270;Infarto
+271;Sobrecarga de ferro
+272;Gota
+273;Aumento do potássio no sangue
+274;Cistite
+275;Infarto cerebral
+276;Síndrome da apneia do sono
+279;Leucemia linfocítica crônica
+280;Gripe
+281;Sedação
+282;Linfoma
+284;Pressão arterial aumentada
+286;Câncer de próstata metastático
+287;Câncer de próstata refratário a hormônios
+288;Edema
+289;Câncer de próstata estádio IV
+291;Distensão abdominal
+292;Diminuição do apetite
+293;Hemorragia digestiva alta
+294;Delusão
+296;Distúrbio da marcha
+297;Mal-estar
+298;Taquicardia
+300;Tuberculose pulmonar
+304;Dor na coluna
+307;Agressão
+308;Doença arterial coronariana
+309;Doença renal terminal
+311;Deficiência de vitamina D
+313;Infecção urinária
+317;Condropatia
+323;Síndrome dolorosa complexa regional
+324;Angina de peito
+325;Gastroenterite
+326;Calafrio
+329;Hipocalemia
+331;Carcinoma de células renais
+332;Transtorno de ansiedade
+333;Disfunção alimentar
+334;Dor nas extremidades
+335;Hipoestesia
+337;Dor do procedimento
+338;Transtorno da próstata
+339;Câncer de pele
+340;Dor no peito
+341;Congestão sinusal
+342;Linfoma de células do manto
+343;Terapia de suplementação
+344;Inchação
+345;Chiado
+346;Angiomiolipoma
+347;Convulsões parciais
+349;Distúrbio da coluna vertebral
+350;Colite
+352;Síndrome das pernas inquietas
+353;Tumor estromal gastrointestinal
+354;Dor musculoesquelética
+355;Estomatite
+357;Infecção relacionada ao dispositivo
+358;Hipoglicemia
+359;Distúrbio respiratório
+361;Rinite alérgica
+362;Carcinoma hepatocelular
+365;Síndrome da articulação temporomandibular
+366;Transtorno bipolar I
+367;Prostatomegalia
+368;Neuralgia do trigêmeo
+370;Câncer de pulmão de células não pequenas
+371;Infecção fúngica
+372;Sépsis
+373;Acidente vascular cerebral isquêmico
+374;Urticária
+378;Deficiência visual
+380;Stress
+382;Progressão da neoplasia
+385;Hemorragia gastrointestinal
+387;Cálcio no sangue diminuído
+388;Distúrbio da bexiga
+389;Magnésio no sangue diminuído
+390;Colesterol no sangue anormal
+392;Hemorragia
+393;Abuso de drogas
+395;Triglicerídeos sanguíneos aumentados
+397;Anemia nefrogênica
+399;Pressão arterial diminuída
+401;Humor
+402;Agitação
+405;Isquemia miocárdica
+406;Infarto do miocárdio
+408;Câncer de ducto biliar
+409;Câncer de vesícula biliar
+410;Pneumonia por Pneumocystis jirovecii
+411;Síndrome inflamatória da reconstituição imune
+412;Infecção por citomegalovírus
+417;Falência da medula óssea
+419;Injeção articular
+420;Suplementação vitamínica
+422;Hemorragia cerebral
+423;Aspiração de pneumonia
+425;Polimiosite
+426;Síndrome coronariana aguda
+427;Transplante de células-tronco
+431;Insuficiência adrenal
+434;Dor abdominal superior
+435;Infecção por Candida
+437;Erupção
+438;Ulceração da boca
+440;Papiloma cutâneo
+441;Leucemia mieloide aguda
+442;Poliúria
+443;Potássio no sangue diminuído
+444;Metástases para pâncreas
+445;Metástases para o rim
+446;Metástases para pulmão
+447;Câncer renal
+448;Distúrbio da fala
+450;Distúrbio vascular periférico
+453;Variz
+454;Distúrbio do equilíbrio
+457;Tosse produtiva
+458;Contusão
+459;Pênfigo
+460;Anemia ferropriva
+462;Desconforto respiratório
+463;Distúrbio extrapiramidal
+464;Distúrbio do movimento
+465;Discinesia tardia
+466;Distúrbio capilar
+467;Distúrbio ungueal
+468;Doença de pele
+469;Ciático
+471;Linfoma de células B recorrente
+475;Embolia pulmonar
+476;Sinusite
+478;Transtorno de Tourette
+479;Esôfago de Barrett
+481;Infecção viral do trato respiratório superior
+485;Aumento da pressão intraocular
+486;Distúrbio da motilidade gastrointestinal
+488;Vitamina D diminuída
+490;Arteriosclerose
+492;Colocação de stent
+493;Doença arterial obstrutiva periférica
+495;Demência tipo Alzheimer
+496;Cirrose hepática
+497;Vertigem posicional
+498;Hipotensão ortostática
+499;Peso diminuído
+502;Miastenia gravis
+503;Tolerância a drogas
+505;Colite ulcerativa
+506;Fibrose pulmonar
+509;Transfusão
+512;Bexiga hipertônica
+515;Frequência cardíaca irregular
+516;Transtorno mental
+518;Lesão nervosa
+519;Síndrome do intestino irritável
+521;Massa tireoidiana
+522;Alucinação
+523;Desconforto nos membros
+524;Enfisema
+525;Congestão do trato respiratório
+528;Sobrecarga hídrica
+533;Degeneração do disco intervertebral
+535;Hepatite C crônica
+536;Hepatite B crônica
+537;Transtorno emocional
+538;Parkinsonismo
+539;Transtorno de pânico
+540;Transtorno de ansiedade generalizada
+541;Recidiva da esclerose múltipla
+543;Distúrbio cardiovascular
+545;Congestão nasal
+546;Colite por Clostridium difficile
+547;Terapia antiplaquetária
+550;Transtorno obsessivo-compulsivo
+551;Síndrome de Sjögren
+552;Hepatite C
+553;Dor pélvica
+555;Queimação
+556;Foliculite
+557;Pancreatite crônica
+558;Artropatia
+560;Controle de peso
+561;Hiperplasia prostática benigna
+562;Câncer de cólon metastático
+563;Dor óssea
+567;Cardiomiopatia hipertrófica
+568;Taquicardia ventricular
+569;Sonolência
+571;Edema periférico
+572;Rigidez musculoesquelética
+574;Aumento do antígeno específico da próstata
+575;Disfunção sexual
+577;Regime de condicionamento da medula óssea
+578;Profilaxia contra doença do enxerto contra o hospedeiro
+579;Bicitopenia
+580;Transtorno depressivo persistente
+584;Raiva
+586;Controle da pressão arterial
+587;Câncer de mama estádio II
+590;Bronquiectasia
+592;Prurido
+593;Câncer renal metastático
+596;Imunodeficiência
+598;Terapia de substituição eletrolítica
+599;Transtorno de personalidade
+600;Alucinação auditiva
+601;Deficiência mental
+602;Humor alterado
+603;Escoliose
+604;Estenose da coluna vertebral
+606;Atraso no desenvolvimento
+607;Lesão cerebral
+609;Terapia de distúrbios do sono
+610;Acne
+612;Paranóia
+613;Bursite
+615;Miocardiopatia
+618;Terapia medicamentosa imunossupressora
+620;Fadiga
+623;Discinesia
+625;Infecção bacteriana
+627;Câncer gástrico
+628;Abscesso cerebral
+629;Transtorno do espectro autista
+630;Tremor
+631;Gestão do ciclo menstrual
+637;Coagulopatia
+640;Transtorno por uso de drogas
+642;Transtorno de personalidade borderline
+645;Mania
+646;Úlcera
+647;Taquipneia
+651;Mielopatia
+653;Nervosismo
+655;Doença de Addison
+656;Labirintite
+659;Disúria
+660;Noctúria
+661;Bacteremia estafilocócica
+662;Flutter atrial
+664;Insuficiência cardíaca crônica
+667;Nível de consciência deprimido
+668;Distúrbio gastrointestinal
+671;Urosepsis
+672;Infecção do trato respiratório inferior
+675;Macroglobulinemia de Waldenstrom
+677;Infecção de tecidos moles
+679;Hiperemia ocular
+681;Transtorno de ansiedade social
+682;Glicemia aumentada
+683;Luxação articular
+684;Terapia antirretroviral
+685;Diabetes gestacional
+687;Celulite
+690;Síndrome de abstinência de drogas
+691;Transtorno cognitivo
+694;Imunossupressão
+695;Ataque de pânico
+700;Medicamento administrado a paciente de idade inadequada
+705;Linfoma difuso de grandes células B
+710;Hiperprolactinemia
+713;Carcinoma pancreático
+715;Rinorreia
+716;Inflamação da mucosa
+717;Aspartato aminotransferase aumentada
+724;Crises discognitivas focais
+725;Estado de mal epiléptico
+729;Contagem de leucócitos diminuída
+731;Dermatite
+732;Pele seca
+733;Gastrite erosiva
+735;Hiperlipidemia tipo IIa
+736;Choro
+737;Hipomagnesemia
+740;Inchaço periférico
+741;Distúrbio do sistema imunológico
+742;Dor vulvovaginal
+745;Infecção pelo vírus do herpes
+746;Portal Hipertensão
+747;Deficiência de vitamina C
+753;Transtorno de personalidade obsessivo-compulsivo
+754;Embolia
+756;Contagem de plaquetas aumentada
+758;Alveolite alérgica
+759;Câncer de cólon
+765;Vasodilatação
+766;Gangrena
+769;Adenocarcinoma de pulmão
+771;Nível hormonal anormal
+773;Delírio
+774;Hipertonia
+776;Eritema no local da incisão
+778;Colecistite
+779;Sinusite aguda
+784;Evento não avaliado
+786;Pênfigo paraneoplásico
+787;Aspergilose broncopulmonar
+789;Osteomielite
+794;Infecção de ouvido
+795;Distúrbio obstrutivo das vias aéreas
+796;Deficiência de ferro
+797;Hemorróidas
+800;Desconforto torácico
+803;Câncer de pulmão de pequenas células
+805;Contratura muscular
+807;Perturbação da atenção
+809;Encefalite
+811;Suicídio consumado
+814;Distúrbio das costas
+815;Hipertensão essencial
+818;Infecção dentária
+819;Desconforto no ouvido
+820;Colite microscópica
+821;Ceratite
+824;Distúrbio do sistema nervoso
+825;Proteína C reativa aumentada
+829;Gravidez
+830;Tuberculose latente
+832;Infecção ocular
+836;Profilaxia de arritmias
+837;Cirurgia
+838;Boca seca
+839;Quimioterapia
+842;Dor no pescoço
+843;Doença renal cística congênita
+845;Exposição fetal durante a gravidez
+846;Neoplasia maligna
+848;Dor tumoral
+850;Infecção de pele
+851;Abcesso
+854;Inquietação
+855;Irritabilidade
+856;Enrugamento da pele
+857;Frequência cardíaca aumentada
+862;Tipo celular de carcinoma pulmonar não especificado recorrente
+863;Hiperfosfatemia
+865;Catarata
+871;Hipersonia
+873;Vitamina B12 diminuída
+874;Hipertiroidismo
+878;Pesadelo
+881;Ferida
+883;Ataque isquêmico transitório
+884;Colangite esclerosante
+887;Transtorno de personalidade esquizotípico
+890;Esclerodermia
+893;Meningite
+895;Metástases para linfonodos
+897;Potássio no sangue anormal
+898;Doença do enxerto contra o hospedeiro no trato gastrointestinal
+899;Fezes anormais
+900;Procedimento de anestesia
+902;Proctalgia
+906;Enterocolite
+907;Inflamação do trato respiratório superior
+908;Infarto agudo do miocárdio
+909;Hipercalemia
+910;Hipotonia
+915;Glaucoma de ângulo aberto
+916;Convulsão febril
+917;Retinopatia
+919;Doença de Hodgkin
+920;Adenocarcinoma de cólon
+921;Epilepsia do pequeno mal
+922;Metástases para o fígado
+923;Faringite
+926;Operação espinhal
+928;Epilepsia do lobo temporal
+929;Nasofaringite
+931;Dor de dente
+935;Ganglioglioma
+938;Leiomioma uterino
+940;Eczema
+941;Carcinoma pancreático metastático
+943;Distúrbio da paratireoide
+948;Prurido generalizado
+950;Hiperatividade psicomotora
+951;Broncoespasmo
+952;Catatonia
+953;Distúrbio muscular
+957;Infeção viral
+960;Distúrbio do trato urinário
+961;Infecção por Rhodococcus
+966;Picada de artrópodes
+967;Hipersecreção dos seios paranasais
+969;Metástase
+971;Dor orofaríngea
+972;Entrega
+980;Nefropatia por IgA
+981;Bloqueio de ramo direito do feixe
+987;Osteonecrose
+988;Esplenomegalia
+989;Hepatite viral
+990;Transplante de pulmão
+996;Incontinência
+997;Anestesia geral
+1001;Transtorno mal definido
+1002;Autolesão intencional
+1004;Hormônio estimulante da tireoide no sangue aumentado
+1005;Psicose aguda
+1006;Má absorção
+1007;Estado confusional
+1009;Neutropenia febril
+1010;Onicomicose
+1013;Flutuação da pressão arterial
+1014;Leucemia aguda tipo precursor B
+1015;Infecção por Klebsiella
+1017;Osteossarcoma
+1018;Doença do enxerto contra o hospedeiro na pele
+1019;Glicemia diminuída
+1020;Proteinuria
+1025;Síndrome gripal
+1028;Transtorno de leitura
+1029;Infecção do trato respiratório superior
+1033;Hiperparatireoidismo
+1037;Distúrbio do ouvido
+1038;Pancreatite
+1039;Dermatite acneiforme
+1042;Parestesia
+1043;Aumento do apetite
+1047;Hemorragia subaracnóidea
+1049;Menorragia
+1050;Púrpura
+1051;Hematêmese
+1053;Infecção por Clostridium difficile
+1056;Micose sistêmica
+1058;Insônia inicial
+1059;Hematúria
+1062;Pensamento anormal
+1064;Reação adversa a medicamentos
+1065;Bolha
+1069;Aumento do ácido úrico no sangue
+1082;Linfoma difuso de grandes células B estádio IV
+1085;Dispneia aos esforços
+1090;Lábio seco
+1093;Colelitíase
+1094;Nódulo
+1095;Desequilíbrio eletrolítico
+1097;Medo
+1101;Cefaleia tensional
+1102;Síndrome cervicobraquial
+1105;Câncer de pulmão de células não pequenas estádio IV
+1106;Abscesso anal
+1107;Alanina aminotransferase aumentada
+1110;Falência renal
+1112;Síndrome de imunodeficiência adquirida
+1113;Dor do tipo breakthrough
+1120;Distúrbio sanguíneo
+1121;Hipotensão
+1127;Sódio no sangue diminuído
+1128;Gengivite
+1131;Prurido ocular
+1137;Infecção por Aspergillus
+1142;Contagem de neutrófilos diminuída
+1145;Hipoalbuminemia
+1146;Choque sético
+1147;Hiponatremia
+1148;Mobilidade diminuída
+1149;Rigidez articular
+1153;Cuidados de suporte
+1160;Crescimento do cabelo anormal
+1161;Sintoma depressivo
+1162;Teste de pressão intraocular anormal
+1164;Frieza periférica
+1166;Conjuntivite
+1169;Melanoma maligno estádio IV
+1170;Exposição durante a gravidez
+1171;Supercrescimento bacteriano gastrointestinal
+1172;Radiculopatia lombar
+1175;Câncer de bexiga
+1177;Terapia antialérgica
+1179;Úlcera duodenal
+1180;Lesão renal aguda
+1181;Lipídios aumentados
+1184;Rabdomiossarcoma
+1185;Má circulação periférica
+1187;Calcinose
+1188;Carcinoma ductal invasivo da mama
+1189;Cistite intersticial
+1192;Parosmia
+1194;Valvopatia cardíaca
+1196;Perda de consciência
+1197;Hiperlipidemia tipo V
+1198;Sarcoma de Ewing
+1199;Infecção da ferida
+1201;Neuroblastoma
+1203;Granulomatose com poliangeíte
+1204;Doença renal crônica
+1208;Aumento do lacrimejamento
+1210;Adenocarcinoma pâncreas
+1212;Desidratação
+1216;Dor torácica musculoesquelética
+1219;Edema faríngeo
+1220;Hipertrofia ventricular esquerda
+1224;Câncer de pulmão de células não pequenas metastático
+1225;Mutação BRAF V600E positiva
+1228;Sarcoma de Kaposi
+1229;Tuberculose
+1237;Dor sinusal
+1238;Infecção estafilocócica
+1241;Hemorragia traumática
+1242;Toxicodependência
+1243;Polineuropatia
+1244;Doença de Lyme
+1248;Zumbido
+1252;Evento adverso
+1257;Câncer hepático
+1260;Dor bucal
+1264;Síndrome do túnel cubital
+1265;Densidade óssea anormal
+1266;Adenocarcinoma
+1269;Doença aguda do enxerto contra o hospedeiro na pele
+1271;Endometriose
+1272;Doença linfoproliferativa pós-transplante
+1273;Peritonite
+1280;Hemodiálise
+1281;Ascite
+1282;Edema peniano
+1283;Edema escrotal
+1285;Eletroencefalograma anormal
+1289;Fratura por compressão da coluna vertebral
+1290;Erro de medicação
+1291;Câncer de mama estádio IV
+1296;Câncer de mama triplo negativo
+1298;Infecção localizada
+1300;Reação a drogas com eosinofilia e sintomas sistêmicos
+1307;Infecção renal
+1309;Hipercalcemia
+1310;Síndrome de lise tumoral
+1311;Bolhoso
+1314;Ideação suicida
+1317;Disgeusia
+1319;Cetoacidose diabética
+1323;Câncer ósseo
+1325;Úlcera esofágica
+1329;Desnutrição
+1330;Miocardite
+1335;Progressão da doença
+1338;Osteonecrose da mandíbula
+1340;Dor oncológica
+1341;Inchaço das articulações
+1350;Leucoencefalopatia multifocal progressiva
+1354;Lesão do disco intervertebral
+1360;Disfunção do nó sinusal
+1366;Erupção cutânea pustulosa
+1367;Distúrbio musculoesquelético
+1376;Delírio persecutório
+1377;Mutismo
+1380;Eritema
+1381;Contagem de plaquetas diminuída
+1385;Erupção macular
+1392;Quimioterapia profilática
+1396;Hipófisite
+1397;Hidrocefalia
+1401;Humor deprimido
+1402;Obesidade
+1403;Disstasia
+1406;Lesão articular
+1409;Hemograma anormal
+1411;Acatisia
+1412;Fratura da coluna vertebral
+1413;Síndrome da taquicardia postural ortostática
+1414;Polaciúria
+1415;Hidradenite
+1419;Doença aguda do enxerto contra o hospedeiro
+1421;Angina instável
+1422;Desconforto musculoesquelético
+1424;Rinite
+1425;Reação relacionada à infusão
+1426;Ferritina sérica aumentada
+1427;Leucemia
+1428;Urgência miccional
+1429;Palpitações
+1430;Exacerbação pulmonar infecciosa da fibrose cística
+1431;Condição agravada
+1432;Neuropatia sensorial periférica
+1433;Deficiência de vitaminas do complexo B
+1435;Operação de catarata
+1444;Linfoma de Burkitt
+1448;Deformidade da coluna vertebral
+1451;Infecção gastrointestinal
+1452;Dor gastrointestinal
+1454;Pneumonite
+1455;Afetar a labilidade
+1459;Dor hepática
+1465;Fratura osteoporótica
+1471;Fratura do colo do fêmur
+1473;Fratura patológica
+1475;Diminuição da estatura corporal
+1476;Fratura
+1479;Hipertensão ocular
+1480;Insuficiência respiratória aguda
+1481;Eosinofilia
+1485;Fratura vertebral lombar
+1487;Bacteremia
+1490;Pustulose exantemática generalizada aguda
+1491;Aumento do cálcio no sangue
+1492;Desconforto
+1500;Sobrepeso
+1501;Contrações uterinas durante a gravidez
+1503;Hiperparatireoidismo secundário
+1504;Neuralgia facial
+1505;Derrame pleural
+1510;Enxaqueca com aura
+1516;Lesão cutânea
+1517;Cromossomo Filadélfia positivo
+1519;Irregularidade do movimento intestinal
+1521;Respiração anormal
+1529;Abuso de álcool
+1530;Distúrbio arterial
+1531;Hemoglobina glicosilada aumentada
+1533;Visão turva
+1535;Hipertermia
+1538;Bradicardia
+1540;Câncer de pênis
+1541;Infecção por Pneumocystis jirovecii
+1542;Cirrose biliar primária
+1546;Problema de uso do produto
+1553;Miose
+1554;Bradicardia sinusal
+1561;Dor no flanco
+1562;Pneumonia em organização
+1570;Taquiarritmia
+1572;Abuso
+1575;Sangue presente
+1576;Cirurgia de fusão vertebral
+1577;Agranulocitose
+1579;Marcha parkinsoniana
+1580;Cair
+1581;Pressão intraocular diminuída
+1582;Albumina sanguínea diminuída
+1587;Isquemia periférica
+1588;Hipóxia
+1590;Convulsão tônica
+1596;Epicondilite
+1598;Distúrbio gastrointestinal funcional
+1601;Trabalho ameaçado
+1603;Acidente
+1604;Leucemia aguda tipo células T
+1609;Osteoartrite espinhal
+1611;Anestesia local
+1614;Peso aumentado
+1626;Quadriplegia
+1629;Carcinoma de células renais de células claras
+1632;Dilatação biliar
+1634;Edema pulmonar
+1635;Contagem de linfócitos diminuída
+1636;Amigdalite
+1638;Infecção por Pseudomonas
+1644;Disfonia
+1646;Taquicardia supraventricular
+1647;Hipofosfatemia
+1648;Epistaxe
+1650;Intolerância à lactose
+1651;Taquicardia sinusal
+1654;Úlcera de decúbito
+1655;Retenção urinária
+1656;Erupção cutânea máculo-papular
+1658;Sepse bacteriana
+1659;Demência
+1663;Metástases para pelve
+1667;Nefrolitíase
+1669;Otite média
+1671;Hepatotoxicidade
+1672;Mordida de artrópodes
+1673;Sonhos anormais
+1674;Sonambulismo
+1676;Fezes macias
+1678;Espondiloartrite axial
+1683;Histoplasmose pulmonar aguda
+1684;Distúrbio cerebral
+1685;Falência ventricular direita
+1689;Arteriosclerose arterial coronária
+1693;pH gástrico diminuído
+1699;Pneumonite
+1704;Afetar a labilidade
+1708;Dor hepática
+1711;Fratura osteoporótica
+1712;Fratura do colo do fêmur
+1714;Fratura patológica
+1715;Diminuição da estatura corporal
+1717;Fratura
+1720;Hipertensão ocular
+1721;Insuficiência respiratória aguda
+1722;Eosinofilia
+1725;Fratura vertebral lombar
+1729;Bacteremia
+1740;Pustulose exantemática generalizada aguda
+1741;Aumento do cálcio no sangue
+1743;Desconforto
+1744;Sobrepeso
+1752;Contrações uterinas durante a gravidez
+1757;Hiperparatireoidismo secundário
+1758;Neuralgia facial
+1759;Derrame pleural
+1765;Enxaqueca com aura
+1768;Lesão cutânea
+1771;Cromossomo Filadélfia positivo
+1773;Irregularidade do movimento intestinal
+1779;Respiração anormal
+1780;Abuso de álcool
+1786;Distúrbio arterial
+1787;Hemoglobina glicosilada aumentada
+1791;Visão turva
+1794;Hipertermia
+1797;Bradicardia
+1800;Câncer de pênis
+1803;Infecção por Pneumocystis jirovecii
+1804;Cirrose biliar primária
+1805;Problema de uso do produto
+1812;Miose
+1816;Bradicardia sinusal
+1821;Dor no flanco
+1822;Pneumonia em organização
+1823;Taquiarritmia
+1825;Abuso de substância
+1837;Sangue presente
+1838;Cirurgia de fusão vertebral
+1841;Agranulocitose
+1844;Marcha parkinsoniana
+1845;Queda
+1846;Pressão intraocular diminuída
+1848;Albumina sanguínea diminuída
+1849;Isquemia periférica
+1851;Hipóxia
+1852;Convulsão tônica
+1853;Epicondilite
+1854;Distúrbio gastrointestinal funcional
+1856;Trabalho ameaçado
+1862;Exposição acidental ao produto por criança
+1863;Linfoma angiocêntrico
+1877;Perturbação na excitação sexual
+1881;Hiperamonemia
+1885;Insuficiência cardiovascular
+1886;Nível de drogas diminuído
+1888;Bebê prematuro
+1890;Infecção pelo complexo Mycobacterium avium
+1893;Acarodermatite
+1897;Instabilidade hemodinâmica
+1914;Logorreia
+1916;Massa mamária
+1918;Fratura de quadril
+1920;Hipersecreção salivar
+1922;Dor abdominal mais baixa
+1925;Fração de ejeção diminuída
+1928;Flutter cardíaco
+1931;Alterações do estado mental
+1936;Esfoliação da pele
+1941;Distonia
+1942;Coriorretinite por citomegalovírus
+1943;Colite por citomegalovírus
+1949;Hipersensibilidade a drogas
+1950;Seminoma
+1953;Metástases para o sistema nervoso central
+1957;Síndrome da encefalopatia posterior reversível
+1960;Edema laríngeo
+1961;Infecção pelo vírus Epstein-Barr
+1962;Metástases para meninges
+1963;Sensação de anormalidade
+1965;Microangiopatia trombótica
+1966;Dor na mama
+1970;Overdose intencional
+1974;Ternura
+1975;Erisipela
+1976;Encefalopatia hepática
+1977;Complicação pós-procedimento
+1978;Abscesso dentário
+1981;Dermatite psoriasiforme
+1983;Endocardite
+1984;Abscesso extradural
+1986;Discite intervertebral
+1989;Adenocarcinoma de endométrio
+1995;Síndrome da serotonina
+1999;Hipotermia
+2010;Descarga de secreção
+2013;Dor na virilha
+2016;Fístula anal
+2017;Escherichia infecção do trato urinário
+2018;Contagem de leucócitos aumentada
+2019;Traumatismo craniano
+2021;Congestão auricular
+2029;Herpes simples
+2039;Rigidez muscular
+2042;Pancreatite aguda
+2047;Transtorno de ajustamento com humor deprimido
+2053;Granulomatose eosinofílica com poliangi
+2056;Compressão da medula espinhal
+2058;Vasculite positiva para anticorpo anticitoplasma de neutrófilos
+2060;Acidente vascular cerebral embólico
+2061;Toxicidade gastrointestinal
+2063;Enxerto vascular
+2066;Escarro descolorido
+2068;Dor ocular
+2069;Vitiligo
+2072;Amnésia
+2076;Lesão cutânea por radiação
+2077;Polimialgia reumática
+2078;Odinofagia
+2079;Doença esofágica
+2080;Neoplasia da próstata
+2092;Cardiopatia hipertensiva
+2096;Distúrbio metabólico
+2099;Lípidos
+2100;Infecção parasitária
+2101;Fratura de costela
+2102;Flushing
+2111;Resistência a patógenos
+2115;Status migrainoso
+2116;Diminuição do folato no sangue
+2119;Edema devido a doença renal
+2121;Dor gengival
+2125;Abscesso abdominal
+2128;Distrofia muscular de Duchenne
+2131;Hemorragia do cisto renal
+2133;Distúrbio dentário
+2138;Linfocitose
+2139;Lesão hepática
+2141;Angioedema
+2142;Pneumonia bacteriana
+2148;Paniculite
+2154;Neoplasias da mama
+2157;Coordenação anormal
+2159;Trombocitose
+2162;Dor púbica
+2163;Neoplasias pulmonares
+2164;Hemorragia alveolar pulmonar
+2168;Síndrome da eritrodisestesia palmoplantar
+2169;Trombose pulmonar
+2171;Trombose arterial
+2172;Eritema nodoso
+2174;Colestase
+2175;Anafilaxia
+2177;Fratura da tíbia
+2179;Ataxia
+2180;Uso indevido intencional do produto
+2182;Mieloma de células plasmáticas recorrente
+2184;Sensação de queimação na pele
+2191;Tricorrexe
+2195;Lesão do membro
+2198;Dor no mamilo
+2200;Pré-eclâmpsia
+2201;Lesão
+2202;Citopenia
+2203;Neoplasias ósseas
+2205;Tuberculose disseminada
+2206;Histoplasmose disseminada
+2214;Linfadenopatia
+2216;Mioclonia
+2219;Colite isquêmica
+2224;Hemorragia gástrica
+2232;Cistite lúpica
+2238;Coriorretinopatia
+2248;Nocardiose
+2253;Carcinoma de células escamosas de pulmão estádio IV
+2257;Erupção cutânea pruriginosa
+2259;Neuropatia do nervo ciático
+2264;Tendinite
+2265;Lipoma
+2267;Pneumonia eosinofílica
+2272;Dilatação e curetagem uterina
+2273;Carcinoma metaplásico da mama
+2274;Doença celíaca
+2278;Infecção da ferida operatória
+2290;Negativismo
+2291;Ganho de peso anormal
+2297;Mutação genética
+2298;Alucinação visual
+2307;Retardo psicomotor
+2310;Alucinações mistas
+2313;Diminuição da tolerância à frustração
+2320;Síndrome neuroléptica maligna
+2329;Amputação de dedos
+2334;Síndrome de abstinência
+2337;Fratura dos ossos da face
+2339;Sofrimento emocional
+2340;Controle inadequado do diabetes mellitus
+2346;Cisto ovariano
+2348;Anemia hemolítica microangiopática
+2368;Abscesso tubo-ovariano
+2381;Insuficiência hepática
+2384;Infecção estreptocócica
+2386;Diplegia
+2394;Síndrome pós-concussão
+2403;Dermatite alérgica
+2404;Candidíase vulvovaginal
+2405;Reação cutânea
+2415;Infecção febril
+2417;Aspergilose cerebral
+2418;Lipossarcoma mixoide
+2425;Fibrose
+2426;Lesão hepatocelular
+2428;Deformidade do pé
+2432;Nódulo reumatoide
+2441;Acidente de trânsito
+2445;Insuficiência cardíaca aguda
+2449;Amônia aumentada
+2460;Temperatura corporal anormal
+2461;Estenose de artéria coronária
+2462;Carcinoma lobular invasivo da mama
+2465;Pressão arterial sistólica diminuída
+2466;Choque
+2467;Divertículo
+2471;Desconforto ocular
+2473;Condição física geral
+2474;Extrassístoles
+2481;Infecção por Mycobacterium abscessus
+2483;Pneumonia atípica
+2487;Linfoma não-Hodgkin histologia não especificada indolente
+2491;Linfoma de células do manto recorrente
+2501;Glomerulonefrite lesão mínima
+2503;Neoplasia do cólon
+2504;Aumento do fósforo no sangue
+2513;Síndrome de Guillain-Barré
+2523;Câncer de mama estádio I
+2528;Choque cardiogênico
+2529;Colapso da veia
+2530;Dor no local da incisão
+2531;Parada cardiorrespiratória
+2539;Aperto muscular
+2540;Envenenamento
+2543;Deficiência de hormônio adrenocorticotrófico
+2545;Radiculopatia cervical
+2553;Cefaleia sinusal
+2560;Coagulação intravascular disseminada
+2561;Tuberculose óssea
+2565;Colocação do cateter
+2568;Dermatite esfoliativa
+2578;Complicação da ferida operatória
+2579;Hipertensão intracraniana idiopática
+2583;Hemorragia intracraniana
+2590;Edema agudo de pulmão
+2594;Diminuição da hemoglobina
+2595;Diminuição da antitrombina III
+2600;Aumento das enzimas hepáticas
+2605;Cicatriz
+2629;Encefalopatia
+2630;Falha no tratamento
+2631;Metástases para bexiga
+2632;Metástases para o útero
+2636;Intolerância a carboidratos
+2639;Plasmocitoma
+2640;Incapacidade de marcha
+2641;Teste de função hepática aumentado
+2644;Reação de hanseníase tipo 2
+2646;Vírus JC testa positivo
+2650;Hepatoblastoma
+2654;Aumento da creatina fosfoquinase no sangue
+2655;Flutuação da glicemia
+2660;Aborto
+2662;Fator de risco da doença
+2670;Erro na dispensação de medicamentos
+2671;Paracentese
+2674;Erupção por droga
+2676;Crise asmática
+2680;Massa pulmonar
+2688;Dor de pele
+2689;Missa
+2690;Micose pulmonar
+2694;Câncer recorrente
+2696;Intolerância ortostática
+2702;Condição física geral anormal
+2730;Cárie dentária
+2735;Edema localizado
+2736;Hematoma
+2739;Incontinência anal
+2740;Hanseníase virchowiana
+2744;Haematochezia
+2752;Neuropatia motora periférica
+2755;Diminuição do fluxo urinário
+2757;Secreção inadequada de hormônio antidiurético
+2767;Carcinoma epidermóide de pulmão estádio III
+2771;Sepse estafilocócica
+2774;Dor fantasma
+2778;Dor na bexiga
+2780;Exposição a agente tóxico
+2781;Neoplasia cutânea
+2783;Pericardite
+2785;Leucocitose
+2790;Abusador de drogas
+2794;Placa cutânea
+2797;Transplante renal e pancreático
+2799;Teste de função hepática anormal
+2802;Frequência cardíaca diminuída
+2803;Aumento da bilirrubina sanguínea
+2804;Hiperidrose
+2809;Formicação
+2812;Neoplasia maligna da ampola de Vater
+2815;Estrongiloidíase
+2821;Hemorragia intestinal
+2824;Aplasia febril de medula óssea
+2826;Inserção de desfibrilador implantável
+2829;Proteína C reativa anormal
+2832;Fraqueza muscular
+2840;Hemorragia interna
+2847;Claustrofobia
+2849;Cegueira
+2853;Hematoma subdural
+2859;Neoplasia de células dendríticas plasmocitóides blásticas
+2862;Broncopneumopatia
+2868;Abulia
+2880;Irritação ocular
+2883;Overdose acidental
+2884;Doença respiratória alérgica
+2889;Artrite infecciosa
+2891;Disquezia
+2894;Reação adversa
+2895;Dor na mandíbula
+2901;Anemia hemorrágica
+2903;Paralisia
+2905;Pneumonia citomegaloviral
+2916;Trombose atrial
+2922;Teste de função tireoidiana anormal
+2925;Fratura da clavícula
+2928;Pneumonia estafilocócica
+2930;Cândida sistêmica
+2939;Espirrar
+2940;Neurotoxicidade
+2954;Trombose da veia porta
+2965;Síndrome do desconforto respiratório neonatal
+2973;Trabalho de parto prematuro
+2979;Reação de pânico
+2981;Obstrução do intestino delgado
+2982;Hidronefrose
+2985;Gastropatia hipertensiva portal
+2986;Retinoblastoma
+3000;Isquemia cerebral
+3012;Hérnia
+3018;Ureterolitíase
+3019;Síndrome da resposta inflamatória sistêmica
+3020;Lesão torácica
+3024;Diminuição do hormônio da paratireoide no sangue
+3025;Insuficiência adrenocortical aguda
+3035;Desconforto nasal
+3045;Articulação de aspiração
+3047;Aumento do dímero de fibrina D
+3051;Carcinoma adenoide cístico
+3055;Intolerância a drogas
+3057;Infusão
+3060;Doença de Hodgkin recorrente
+3062;Anemia microcítica
+3066;Tumor de células da granulosa ovariana
+3071;Exostose
+3075;Dermatose neutrofílica febril aguda
+3088;Descolamento de retina
+3089;Fratura de fêmur
+3091;Lesão do sistema nervoso central
+3108;Síndrome do manguito rotador
+3109;Linfoma angioimunoblástico de células T
+3117;Íleo
+3123;Melanoma intraocular
+3130;Leucemia linfocítica aguda refratária
+3134;Tuberculose do aparelho geniturinário
+3135;Piúria
+3137;Icterícia colestática
+3152;Infecção do pé diabético
+3155;Infecção urinária pseudomonal
+3156;Hospitalização
+3158;Urticária mecânica
+3162;Colangite
+3163;Displasia broncopulmonar
+3164;Síndrome do desconforto respiratório agudo
+3186;Mutação no gene da quinase do linfoma anaplásico
+3190;Babando
+3197;Acidose láctica
+3204;Procedimento ortopédico
+3209;Pressão arterial sistólica aumentada
+3211;Meningoencefalite herpética
+3215;Miosite necrosante
+3222;Lesão pulmonar traumática
+3233;Aumento do débito urinário
+3236;Peptídeo natriurético cerebral pró-hormônio N-terminal aumentado
+3238;Morte
+3242;Trombose ventricular cardíaca
+3243;Síndrome de HELLP
+3251;Hipernatremia
+3257;Anúria
+3266;Hemorragia processual
+3267;Periodontite
+3268;Fissuras cutâneas
+3269;Trombocitopenia induzida por heparina
+3272;Interação medicamentosa
+3275;Bradifrenia
+3283;Hipocloremia
+3286;Empiema
+3288;Evacuações frequentes
+3289;Abandono do tratamento
+3292;Infecção por parvovírus B19
+3293;Problema de uso intencional do produto
+3295;Contagem de glóbulos brancos anormal
+3303;Cirurgia do quadril
+3317;Progressão da neoplasia maligna
+3319;Fracasso no crescimento pôndero-estatural
+3325;Aperto na garganta
+3328;Uso de substâncias
+3329;Hemiplegia
+3333;Hemiparesia
+3335;Prurido vulvovaginal
+3337;Fibrilação ventricular
+3343;Parto prematuro
+3361;Rigidez abdominal
+3370;Melaena
+3371;Hemorragia retal
+3377;Inchaço do rosto
+3378;Diálise
+3380;Eritema vulvovaginal
+3384;Descompensação neurológica
+3395;Operação do ombro
+3403;Diminuição da libido
+3404;Dependência de nicotina
+3406;Câncer de pulmão de células não pequenas estádio IIIA
+3408;Síndrome de hipoventilação central congênita
+3411;Quisto
+3412;Pirofosfato de condrocalcinose
+3414;Bacteremia por Escherichia
+3423;Ascite maligna
+3426;Paralisia facial
+3431;Oclusão da artéria cerebral
+3440;Prurigo
+3443;Tensão muscular
+3457;Enxaqueca vestibular
+3462;Hemorragia adrenal
+3465;Mucormicose
+3473;Saturação de oxigênio diminuída
+3477;Azotemia
+3508;Sinovite
+3510;Distúrbio linfático
+3512;Histiocitose de células de Langerhans
+3518;Buraco macular
+3519;Descoloração da pele
+3521;Carcinoma embrionário testicular estádio I
+3522;Abscesso mamário
+3524;Blefaroespasmo
+3527;Insônia média
+3537;Desconforto na cabeça
+3541;Citopenia refratária com displasia de multilinhagens
+3543;Ruptura ligamentar
+3548;Fratura pélvica
+3549;Menopausa prematura
+3555;Cisto ósseo
+3556;Fratura de membro inferior
+3557;Fratura de tornozelo
+3563;Fratura do rádio
+3573;Perfuração de úlcera duodenal
+3576;Cirurgia bucal
+3584;Hemorragia da úlcera gástrica
+3588;Pneumonia klebsiella
+3591;Febre Q
+3592;Dor renal
+3596;Anhedonia
+3598;Vasculite cutânea
+3599;Vasculite de hipersensibilidade
+3606;Cromatúria
+3607;Metástases para o pênis
+3610;Nível de fator V da coagulação anormal
+3613;Cifose
+3617;Concussão
+3622;Distúrbio das vias biliares
+3625;Colapso circulatório
+3628;Osteomalacia
+3629;Fratura da fíbula
+3632;Fratura de ulna
+3641;Crise da meia-idade
+3655;Infecção por Mycobacterium chelonae
+3656;Recorrência da doença
+3657;Laringite
+3663;Distúrbio das membranas mucosas
+3665;Trombose venosa cerebral
+3667;Perda da independência pessoal nas atividades diárias
+3668;Paralisia do nervo fibular
+3670;Irritação na garganta
+3671;Cisto renal
+3673;Zinco sanguíneo anormal
+3680;Oclusão da artéria coronária
+3682;Sepse por Escherichia
+3683;Miastenia ocular
+3685;Crescimento ungueal anormal
+3697;Membro com trombose venosa
+3710;Apatia
+3719;Infecção da ferida pseudomonas
+3722;Infecção urinária bacteriana
+3729;Fratura atípica do fêmur
+3731;Fratura do membro superior
+3745;Lesão do nervo ciático
+3754;Doença linfoproliferativa
+3755;Não responsivo a estímulos
+3760;Inchaço ocular
+3761;Efeito da droga retardado
+3764;Afta
+3767;Infecção por Acinetobacter
+3768;Calcifilaxia
+3775;Neoplasia da língua estágio maligno não especificado
+3778;Acinesia
+3782;Distúrbio bucal
+3786;Sarcoma sinovial metastático
+3787;Insuficiência hepática aguda
+3793;Aborto espontâneo
+3802;Afasia
+3803;Inchaço pós-procedimento
+3807;Trombose do seio transverso
+3812;Uso de álcool
+3837;Temperatura corporal aumentada
+3846;Necrose muscular
+3848;Distúrbio menstrual
+3852;Erupção cutânea generalizada
+3853;Gastroenterite viral
+3854;Ressaca
+3857;Língua inchada
+3858;Sede
+3859;Dor nos gânglios linfáticos
+3861;Energia aumentada
+3863;Clima eufórico
+3865;Coma hepático
+3878;Eletrocardiograma QT prolongado
+3887;Meningite bacteriana
+3889;Staphylococcus teste positivo
+3895;Cálcio no sangue anormal
+3902;Crise tireotóxica
+3913;Implante de prótese
+3915;Hiperestesia
+3923;Reação à imunização
+3930;Erupção tóxica da pele
+3933;Desconforto no local da injeção
+3936;Hesitação urinária
+3941;Erupção papular
+3942;Diminuição do débito urinário
+3944;Amamentação
+3947;Edema generalizado
+3950;Contagem de eosinófilos aumentada
+3954;Endoftalmite
+3963;Segunda malignidade primária
+3966;Medicamento ineficaz
+3970;Infecção do trato respiratório fúngica
+3976;Eritema no local da injeção
+3977;Prurido no local da injeção
+4000;Pensamentos intrusivos
+4019;Lesão de nervo periférico
+4037;Infecção do trato urinário enterocócica
+4042;Distúrbio da vesícula biliar
+4043;Resistência a medicamentos
+4047;Taquicardia paroxística
+4065;Transtorno amnéstico
+4066;Pensamentos obsessivos
+4075;Paraplegia
+4076;Síndrome do nevo basocelular
+4082;Crise hipertensiva
+4089;Descoloração das unhas
+4091;Erro na administração de medicamentos
+4092;Perfuração intestinal
+4106;Distúrbio do pénis
+4108;Analgesia peridural
+4114;Catarata nuclear
+4121;Engasgo
+4127;Lesão hepática
+4131;Lesão nas costas
+4134;Exoftalmia
+4146;Cateterismo venoso central
+4150;Trombose cerebral
+4151;Acidose respiratória
+4165;Fibrinogênio sanguíneo diminuído
+4167;Transtorno alimentar
+4171;Leucemia de Burkitt
+4174;Corrimento
+4177;Polimenorreia
+4184;Síndrome de abstinência de drogas neonatal
+4203;Cor pulmonale |
+4205;Mesotelioma maligno
+4210;Operação vascular
+4214;Inflamação no local do estoma
+4216;Convulsões de abstinência de drogas
+4242;Endocardite por cândida
+4246;Necrose tubular renal
+4250;Bloco de ramificação do feixe à esquerda
+4262;Metástases para o olho
+4266;Hemorragia hemorroidária
+4270;Evacuações infrequentes
+4271;Exposição materna durante a gestação
+4272;Perturbação sensorial
+4279;Nefrostomia
+4282;Aumento do escarro
+4298;Síndrome de Stevens-Johnson
+4300;Desordem tendínea
+4302;Distúrbio do metabolismo ósseo
+4313;Doença crônica do enxerto contra o hospedeiro na pele
+4320;Transaminases aumentadas
+4323;Laringoespasmo
+4331;Trombose relacionada ao dispositivo
+4337;Braquiterapia para pele
+4340;Hepatomegalia
+4344;Surdez
+4346;Rabdomiólise
+4353;Petéquias
+4361;Pólipo
+4365;Linfoma de Burkitt estágio II
+4373;Magnésio no sangue anormal
+4374;Hipertermia maligna
+4384;Erupção cutânea eritematosa
+4388;Cardiomiopatia restritiva
+4392;Inchaço no local de injeção
+4399;Cesariana
+4405;Fratura da mão
+4416;Pré-síncope
+4431;Lesão hepática induzida por drogas
+4436;Dissonia
+4440;Ileostomia
+4448;Morte fetal
+4452;Sangramento gengival
+4457;Operação de cotovelo
+4459;Rabdomiossarcoma embrionário
+4466;Paraproteinemia
+4468;Aderências abdominais
+4470;Problema de qualidade do produto
+4473;Letargia
+4477;Desordem linfoproliferativa associada ao vírus Epstein-Barr
+4479;Síndrome de aspiração de mecônio
+4483;Temperatura corporal diminuída
+4488;Lesão na face
+4501;Adenocarcinoma da vesícula biliar
+4507;Reação de fotossensibilidade
+4516;Doença hepática veno-oclusiva
+4521;Parotitis
+4527;Reparo de hérnia
+4530;Linfoma de células T estágio IV
+4532;Paciente recebeu medicação errada
+4536;Eritema multiforme
+4539;Maculopatia
+4558;Cegueira unilateral
+4579;Eritema palpebral
+4583;Hemograma completo diminuído
+4590;Razão normalizada internacional aumentou
+4597;Marcador inflamatório aumentado
+4618;Hipoacusia
+4652;Acidente
+4679;Dor na vesícula biliar
+4697;Câncer de células germinativas testicular metastático
+4708;Dose extra administrada
+4714;Infiltração pulmonar
+4788;Tracheobronchitis
+4796;Erro na prescrição de medicamentos
+4797;Erupção fixa
+4798;Trombose do seio sagital superior
+4801;Icterícia
+4808;Tempo de protrombina prolongado
+4812;Cólica biliar
+4819;Perda anormal de peso
+4833;Anemia hipocrômica
+4835;Sensação de frio
+4836;Faecaloma
+4844;Encefalopatia hipóxico-isquêmica
+4853;Síndrome de Budd-Chiari
+4854;Fibrose hepática
+4858;Lesão vascular
+4860;Cálculo do ducto biliar
+4868;Hemorragia dos gânglios da base
+4892;Menometrorrhagia
+4899;Disartria
+4909;Linfoma periférico de células T não especificado estádio IV
+4913;Massa intracraniana
+4919;Hematoma cerebral
+4923;Doença de Hodgkin celular mista estágio IV
+4930;Hemorragia pós-procedimento
+4948;Lipo-hipertrofia
+4951;Massa renal
+4954;Ceratite puntiforme
+4961;Asfixia
+4976;Massa cutânea
+4979;Textura do cabelo anormal
+4986;Exame laboratorial anormal
+4989;Sensação de calor
+5002;Rino-rinoceronte eosinofílico crônico
+5003;Furúnculo
+5004;Necrose cutânea
+5012;Edema palpebral
+5042;Doença inflamatória pélvica
+5049;Infecção por Capnocytophaga
+5050;Peritonite bacteriana
+5060;Diminuição da hemoglobina glicosilada
+5069;Glossite infecciosa
+5071;Abscesso retroperitoneal
+5075;Linfoma de células B estágio I
+5092;Pressão da fala
+5095;Linfoma de Burkitt estágio III
+5100;Glossodinia
+5102;Exposição via transplante
+5108;Coriorretinite
+5115;Encefalite equina oriental
+5128;Bloqueio atrioventricular completo
+5141;Síndrome de vasoplegia
+5144;Retching
+5153;Megacólon
+5155;Linfoma de células B da zona marginal nodal
+5158;Osteotomia
+5161;Bloco de ramificação do feixe
+5165;Dor peniana
+5171;Leucemia linfocítica crônica estágio 1
+5174;Fome
+5175;Disfunção motora
+5183;Lipoproteína de alta densidade diminuída
+5197;Odor anormal da pele
+5198;Gastrite hemorrágica
+5200;Reação de hanseníase tipo 1
+5207;Edema alérgico
+5225;Sensação de nervosismo
+5252;Obliteração transvenosa retrógrada ocluída por balão
+5265;Hiperpigmentação da pele
+5271;Pólipo do intestino grosso
+5278;Hematomas no local da injeção
+5279;Dor no local da injeção
+5282;Deiscência da ferida
+5288;Sentimento de desespero
+5290;Desrealização
+5297;Deslocamento do dispositivo
+5298;Diátese hemorrágica
+5299;Desinibição
+5306;Afeto plano
+5307;Sentimentos de inutilidade
+5323;Transtorno do neurodesenvolvimento
+5338;Dor genito-pélvica/distúrbio de penetração
+5340;Ferimento por arma de fogo
+5344;Fibrose miocárdica
+5345;Deficiência
+5354;Ruptura tendínea
+5373;Fenômeno do congelamento
+5392;Inserção de sutura
+5395;Cirurgia cervical
+5408;Cisto mamário
+5439;Desorientação
+5442;Crise oculógica
+5445;Incoerente
+5448;Polidipsia
+5454;Afeto embotado
+5455;Pressão arterial pulmonar aumentada
+5470;Vitamina D anormal
+5491;Bloqueio atrioventricular de segundo grau
+5504;Doença por IgA linear
+5506;Fosfatase alcalina sanguínea aumentada
+5523;Choque hipovolêmico
+5529;Distúrbio gengival
+5532;Colangite aguda
+5536;Mácula
+5545;Defeito de campo visual
+5549;Estreitamento do espaço do disco intervertebral
+5550;Reação no local da injeção
+5553;Gestação anembrionária
+5559;Torsade de pointes |
+5563;Eritema da mucosa gástrica
+5569;Hiperbilirrubinemia
+5583;Operação de hemorroidas
+5589;Operação ligamentar
+5595;Hipercloremia
+5613;Hematotoxicidade
+5615;Sensação de corpo estranho
+5617;Aneurisma
+5619;Toxicidade cutânea
+5625;Omissão de dose de medicamento
+5626;Aumento da tendência a hematomas
+5631;Síndrome do anticonvulsivante fetal
+5636;Estridor
+5638;Nefropatia tóxica
+5639;Falha virológica
+5649;Pressão arterial diastólica diminuída
+5651;Falha do dispositivo
+5656;Perda sensorial
+5660;Ginecomastia
+5661;Perda de emprego
+5663;Problema de substituição de produto
+5666;Macrocitose
+5667;Fotofobia
+5668;Velocidade de hemossedimentação aumentada
+5671;Pensamentos negativos
+5675;Hipofagia
+5678;Problema do dispositivo
+5679;Dose insuficiente
+5685;Horário inadequado de administração de medicamentos
+5686;Via incorreta de administração de medicamentos
+5687;Dose incorreta administrada
+5688;Potencializando a interação medicamentosa
+5689;Overdose prescrita
+5690;Granuloma cutâneo
+5693;Resposta terapêutica diminuída
+5694;Fezes descoloridas
+5699;Imperícia
+5714;Acidente vascular cerebral hemorrágico
+5718;Técnica errada no processo de utilização do produto
+5719;Vólvulo
+5722;Hipoestesia oral
+5723;Parestesia oral
+5725;Problema econômico
+5726;Eletromiograma anormal
+5727;Vesícula biliar não funcionante
+5728;Descoloração da língua
+5729;Vitamina B6 aumentada
+5730;Flutuação de peso
+5732;Duração incorreta da administração de medicamentos
+5733;Ageusia
+5740;Palidez
+5742;Erupção cutânea no local de injeção
+5743;Fratura dentária
+5745;Sentimento de opressão
+5748;Insolação
+5750;Quebra do dispositivo
+5756;Problema de adesão do produto
+5763;Resposta terapêutica encurtada
+5764;Contagem de neutrófilos aumentada
+5765;Coma
+5766;Cianose
+5770;Creatinina sanguínea diminuída
+5773;Total de proteínas aumentou
+5775;Diafragmalgia
+5777;Massa no local de injeção
+5788;Sons respiratórios anormais
+5790;Medicamento administrado em local inadequado
+5792;Perfuração da membrana timpânica
+5793;Morte súbita
+5794;Ronco
+5795;Pneumotórax
+5796;Desvio de drogas
+5797;Intoxicação alimentar
+5799;Projétil de vômito
+5803;Purulência
+5804;Deformidade da mão
+5805;Hemorragia no local de injeção
+5808;Encefalopatia metabólica
+5812;Atividade elétrica sem pulso
+5814;Vômito descolorido
+5818;Menstruação atrasada
+5821;Linfopenia
+5826;Desbridamento
+5835;Capacidade para o trabalho prejudicada
+5837;Medicamento ineficaz para indicação não aprovada
+5841;Efeito da droga diminuiu
+5849;Hemorragia no local do cateter
+5850;Disfunção da motricidade fina
+5851;Postura anormal
+5857;Efeito da droga incompleto
+5858;Erro de armazenamento do produto
+5860;Morte celular
+5863;Capacidade de condução prejudicada
+5866;Distúrbio da mandíbula
+5867;Cessação da terapia
+5869;Problema de uso do dispositivo
+5883;Perfuração gastrointestinal
+5894;Exposição à poluição química
+5895;Hemotórax
+5901;Isquemia intestinal
+5908;Acesso venoso precário
+5911;Nenhum evento adverso
+5913;Ruídos gastrointestinais anormais
+5914;Força de preensão diminuída
+5916;Bolha de sangue
+5920;Infecção pelo vírus JC
+5922;Ureia no sangue aumentada
+5926;Edema periorbital
+5929;Terapia não respondedora
+5935;Hemorragia da ferida
+5942;Subdosagem prescrita
+5944;Escala de coma anormal
+5950;Edema labial
+5951;Reação de hipersensibilidade tipo IV
+5960;Problema da agulha
+5967;Aumento do consumo de oxigênio
+5968;Hypokinesia
+5973;Cetoacidose
+5975;Osso exposto na mandíbula
+5977;Crosta
+5979;Agressão física
+5981;Bradicinesia
+5991;Compressão do disco intervertebral
+5992;Massa cervical
+6005;Distúrbio da mastigação
+6008;Dormir falando
+6009;Parada respiratória
+6016;Afonia
+6018;Cisto hepático
+6023;Aumento da lactato desidrogenase no sangue
+6024;Inchaço no local da incisão
+6027;Insuficiência pré-renal aguda
+6030;Estenose ureteral
+6031;Acuidade visual reduzida
+6038;Respiração dolorosa
+6045;Usuário de auxílio à marcha
+6051;Produto contraindicado administrado
+6053;Teste de poliomavírus positivo
+6054;Descarga uretral
+6056;Circunstância ou informação capaz de levar ao erro de medicação
+6061;Mau funcionamento do dispositivo
+6063;Suor frio
+6064;Eletrocardiograma complexo QRS prolongado
+6074;Vítima de abuso infantil
+6078;Contagem de linfócitos aumentada
+6079;Contagem de monócitos aumentada
+6083;Produto vencido administrado
+6094;Hematócrito diminuído
+6099;Hemorragia cutânea
+6104;Reação paradoxal a drogas
+6107;Eletrocardiograma anormal
+6111;Obstrução ureteral
+6112;Letargia
+6114;Necrose epidérmica
+6125;Anticorpo específico do medicamento
+6136;Ressonância nuclear magnética anormal
+6142;Dor no local da aplicação
+6144;Contratura articular
+6152;Necrose gastrointestinal
+6153;Anosmia
+6154;Encefalopatia tóxica
+6156;Estupor
+6163;Depressão respiratória
+6165;Aquecimento no local de injeção
+6170;Atrofia da cartilagem
+6176;Haptoglobina diminuída
+6181;Problema de infusão do dispositivo
+6190;Perfuração do intestino grosso
+6191;Lesão esquelética
+6203;Dermatite bolhosa
+6204;Lesão hepática colestática
+6209;Nefrocalcinose
+6212;Dilatação da aorta
+6216;Peptídeo natriurético cerebral aumentado
+6222;Enduração da pele
+6232;Sentir-se bêbado
+6237;Linfócitos CD4 diminuídos
+6244;Síndrome compartimental
+6246;Urticária no local da injeção
+6247;Uso indevido intencional do dispositivo
+6251;Corrimento mamário
+6254;Hiperreflexia
+6258;Estado alterado de consciência
+6261;Cardiotoxicidade
+6269;Ortopneia
+6272;Diminuição da tolerância ao exercício
+6314;Eletrocardiograma segmento ST anormal
+6320;Displasia cervical
+6321;Pseudoaneurisma vascular
+6324;Vesículas no local de aplicação
+6325;Transtorno alimentar relacionado ao sono
+6341;Medo de injeção
+6351;Fístula traqueoesofágica
+6353;Pulso ausente
+6362;Omissão intencional de dose
+6374;Dor em dispositivos médicos
+6375;Problema de conexão do dispositivo
+6376;Abscesso de ponto
+6383;Intoxicação hídrica
+6385;Oligodrâmnio
+6387;Aneurisma cerebral roto
+6390;Oliguria
+6393;Fenômenos semelhantes à convulsão
+6399;Pneumonia eosinofílica aguda
+6400;Lesão renal
+6408;Sequestro primário
+6416;Desconfiança
+6419;Bloqueio atrioventricular de primeiro grau
+6423;Hemorragia hepática
+6427;Amplitude de movimento articular diminuída
+6428;Teste de função renal anormal
+6436;Problema de disponibilidade do produto
+6439;Flutuadores vítreos
+6444;Choro
+6449;Nascido vivo
+6458;Hemorragia pericárdica
+6461;Íleo paralítico
+6468;Descoloração no local de injeção
+6475;Pólipo intestinal
+6476;Inchaço da boca
+6479;Aperto na pele
+6483;Puberdade atrasada
+6491;Recém-nascido normal
+6493;Sopor
+6496;Ruptura prematura de membranas
+6500;Derrame de coroide
+6511;Porcentagem de linfócitos diminuída
+6512;Sinais eletrocardiográficos de isquemia miocárdica
+6514;Gravidez em anticoncepcional
+6520;Inchaço peniano
+6540;Dificuldade de sustentação de peso
+6545;Pneumatose
+6552;Evento anormal relacionado ao sono
+6554;Onicomase
+6558;Anomalia cardiovascular congênita
+6560;Deformidade torácica
+6565;Procedimento de monitorização medicamentosa não realizado
+6569;Creatinina sanguínea anormal
+6570;Ureia sanguínea anormal
+6582;Mutação do DNA mitocondrial
+6584;Vômitos pós-tussígenos
+6586;Crepitações
+6587;Albumina urinária presente
+6600;Celulite pós-procedimento
+6601;Atrofia gengival
+6620;Aumento da vesícula biliar
+6640;Monoplegia
+6664;Recuperação retardada da anestesia
+6677;Preguiça
+6684;Toxicidade pulmonar
+6688;Desconforto anorretal
+6690;Coma diabético
+6691;Erupção vesicular
+6714;Libido aumentada
+6736;Flutuação da temperatura corporal
+6737;Toxicidade da medula óssea
+6741;Malformação arteriovenosa hemorrágica
+6763;Estenose intestinal grossa
+6777;Estresse familiar
+6788;Volume celular médio aumentado
+6791;Monoparesia
+6800;Hemobilia
+6802;Obstrução gastrointestinal
+6807;Orgasmo anormal
+6811;Gravidez em uso de anticoncepcional oral
+6813;Infecção uterina
+6814;Analgesia inadequada
+6830;Aumento do ácido láctico no sangue
+6837;Coledocoenterostomia
+6878;Dosagem incorreta administrada
+6921;Astigmatismo
+6923;Meningite química
+6930;Hemianopia
+6935;Deformidade
+6939;Hemorragia renal
+6943;Entrópio
+6948;Fratura de mandíbula
+6949;Hepatite fulminante
+6964;Secreção da ferida
+6967;Anemia normocítica normocrômica
+6974;Herpes vírus humano 8 teste positivo
+6979;Lesão gastrointestinal
+6988;Irritação do trato respiratório
+6992;Líquido sub-retiniano
+6993;Técnica errada no processo de uso do dispositivo
+6995;Tontura de esforço
+7001;Inchaço da mama
+7002;Hemianestesia
+7014;Resposta parcial à terapia
+7018;Hemorragia arterial
+7022;Complicação do sítio da fístula arteriovenosa
+7024;Paresia facial
+7025;Visão de túnel
+7032;Comportamento suicida
+7042;Erro de medicação de interação medicamentosa rotulada
+7049;Problema de cor do produto
+7054;Contagem de reticulócitos aumentada
+7055;Abscesso vaginal
+7063;Hematócrito anormal
+7064;Distúrbio hemorrágico
+7066;Hemorragia tumoral
+7067;Epiteliopatia pigmentar da retina
+7078;Tetania
+7079;Transfusão de concentrado de hemácias
+7103;Natimorto
+7108;Hemorragia do trato respiratório
+7110;Trombose da artéria cerebral
+7127;Aumento da gonadotrofina coriônica humana
+7141;Insuficiência cardiopulmonar
+7147;Distúrbio das cordas vocais
+7151;Diminuição da tolerância aos fármacos
+7158;Massa de tecidos moles
+7160;Morte cerebral
+7161;Hipoperfusão cerebral
+7176;Radiografia de tórax anormal
+7200;Hipoperfusão
+7203;Meningite listeria
+7205;Síndrome anticolinérgica
+7214;Problema no contêiner do produto
+7218;Trombose de stent vascular
+7222;Doença do soro
+7249;Gravidez gemelar
+7250;Atordoamento miocárdico
+7254;Erupção cutânea morbiliforme
+7256;Papiledema
+7262;Fala desorganizada
+7278;Problema físico do produto
+7282;Atrofia cerebelar
+7288;Síndrome do estresse tibial medial
+7297;Edema da língua
+7299;Toxicidade pancreática
+7306;Hipersensibilidade tipo I
+7368;Câncer de próstata estádio II
+7372;Ruptura da mucosa esofágica
+7391;Cicatrizes intestinais
+7412;Exsudato do mamilo sanguinolento
+7419;Hematoma peniano
+7450;Sensação de queimação genital
+7457;Ceratose liquenóide
+7459;Síndrome compartimental abdominal
+7473;Hipotonia neonatal
+7478;Doença respiratória exacerbada por aspirina
+7479;Urgência de defecação
+7493;Dor uterina
+7494;Desconforto do dispositivo médico
+7522;Meningoencefalite bacteriana
+7547;Aerofagia
+7561;Problema de embalagem do blister do produto
+7567;Invasão tumoral
+7578;Candidúria
+7583;Mudança na apresentação das crises
+7584;Celulite do órgão genital externo masculino
+7586;Resposta terapêutica tardia
+7588;Radiação de cistite
+7597;Tremor de repouso parkinsoniano
+7604;Erupção cutânea vulvovaginal
+7607;Flexibilidade cerosa
+7626;Danos ao dispositivo
+7645;Infecção por Moraxella
+7651;Ecolalia
+7660;Bolha genital
+7672;Odor do produto anormal
+7683;Inconsciência hipoglicêmica
+7717;Corpo solto na articulação
+7727;Mudança da cor dos olhos
+7732;Transfusão de plaquetas
+7742;Nível de anticoagulação abaixo do terapêutico
+7757;Toxicidade retiniana
+7760;Crise hipoglicêmica
+7768;Falta de saciedade
+7775;Titulação da dose do medicamento não realizada
+7787;Lesão venosa
+7793;Nível de antipsicóticos aumentou
+7797;Dermatite infectada
+7808;Encefalopatia hiperamonêmica
+7814;Bezoar
+7816;Toxicidade mitocondrial
+7822;Hipersensibilidade documentada ao produto administrado
+7875;Gases sanguíneos anormais
+7876;Reatividade cruzada do produto terapêutico
+7882;Leucoencefalopatia
+7883;Pápula no local de injeção
+7887;Inserção de prótese óssea
+7911;Histologia anormal
+7920;Aumento das glândulas salivares
+7922;pH sanguíneo diminuído
+7941;Listeria sepse
+7950;Derrame articular no local do dispositivo médico
+7984;Operação da córnea
+7985;Ulceração genital
+7986;Conjuntivite lenhosa
+7994;Aumento da concentração média de hemoglobina celular
+8019;Molusco contagioso
+8028;Alimentação inadequada do lactente
+8045;Ablação de alta frequência
+8060;Dentes mal posicionados
+8097;Depuração renal diminuída da creatinina
+8106;Gastroenterite Escherichia coli
+8129;Síndrome de abstinência de esteroides
+8137;Trombose do enxerto
+8177;Hemorragia gastrointestinal do pólipo
+8180;Tricomegalia
+8184;Sulco palpebral aprofundado
+8188;Hemorragia peridural
+8200;Rastreamento de drogas falso positivo
+8204;Déjà vu
+8207;Mutação viral identificada
+8220;Síndrome inflamatória de reconstituição imune associada à tuberculose
+8224;Atresia intestinal
+8251;Klebsiella sepse
+8255;Massa faríngea
+8299;Aumento da porcentagem de reticulócitos
+8311;Falha na indução do trabalho de parto
+8313;Cisto adrenal
+8340;Estimulação cerebral profunda
+8418;Necrose hepática
+8441;Hemorragia por úlcera gastrointestinal
+8483;Eritema lingual
+8494;Tumor de paratireoide
+8509;Dióxido de carbono diminuiu
+8541;Dilatação do ducto pancreático
+8545;Insuficiência ventricular direita aguda
+8547;Abscesso perirretal
+8550;Erro na monitorização da medicação
+8572;Pseudolinfoma
+8587;Osteossíntese
+8616;Porcentagem de neutrófilos aumentou
+8631;Morte súbita cardíaca
+8647;Hematoma epidural espinhal
+8649;Candidíase hepatoesplênica
+8684;Teste de álcool falso positivo
+8730;Prender a respiração
+8733;Extravasamento do local de administração
+8771;Infecção por torulopse
+8840;Lipoproteína de baixa densidade diminuída
+8851;Ganrena do cólon
+8864;Anorgasmia
+8870;Hemorragia medular
+8903;Vasculite hialinizante segmentada
+8904;Faringite por herpes zoster
+8906;Diminuição da formação óssea
+8907;Reabsorção óssea diminuída
+8911;Calcificação da valva aórtica
+8965;Ereção peniana espontânea
+8982;Necrose do sistema nervoso central
+8999;Trombose no local da perfusão
+9026;Cetose diabética
+9060;Obstrução duodenal
+9090;Fuga de ideias
+9093;Hemorragia brônquica
+9117;Inchaço genital
+9135;Esteatose cardíaca
+9163;Transformação cavernosa da veia cavernosa
+9164;Oclusão da veia cavernosa
+9214;Mácula no local de injeção
+9220;Imobilização do membro
+9258;Erupção cutânea no local de perfusão
+9271;Hemorragia dos seios paranasais
+9297;Hematoma medular
+9307;Síndrome do homem vermelho
+9343;Lesão esplênica
+9347;Excisão de cicatriz
+9355;Vulvovaginite
+9391;Linfadenopatia dermatopática
+9410;Colapso do ventrículo cerebral
+9418;Oclusão da veia cava superior
+9419;Morte acidental
+9420;Neoplasia maligna das glândulas sudoríparas
+9423;Vasculite nodular
+9496;Inserção do dispositivo de diálise
+9497;Falha do enxerto
+9522;Coma hiperglicêmico diabético
+9548;Infiltração linfocítica
+9560;Bradypneia
+9635;Exame neurológico anormal
+9657;Início súbito do sono
+9681;Desordem do cristalino
+9716;Perfuração de úlcera intestinal grossa
+9727;Boates
+9749;Anemia normocrômica
+9777;Bacteremia por Clostridium
+9778;Abscesso mesentérico
+9788;Edema cutâneo
+9823;Queimadura química da pele
+9875;Eclampsia
+9882;Disfunção sexual feminina
+9888;Gardnerella testa positivo
+9921;Postura
+9922;Isquemia no local da injeção
+9926;Fístula mamária
+9943;Medicamento dispensado ao paciente errado
+9952;Distúrbio sensório-motor
+9964;Transtorno orgásmico feminino
+10023;Interferência de testes laboratoriais
+10097;Autofobia
+10122;Abscesso vulvar
+10152;Infecção por Aeromonas
+10240;Diminuição da sensação orgástica
+10262;daltonismo
+10265;Deficiência de cobre
+10298;Sexo durante o sono
+10405;Emissão noturna
+10407;Lacuna aniônica
+10431;Reflexo trigeminocardíaco
+10502;Distúrbio da circulação do líquido cefalorraquidiano
+10636;Hemorragia por varizes intestinais
+10665;Expressão de CD30
+10682;Eletrólitos sanguíneos aumentados
+10873;Distúrbio do movimento fetal
+11082;Teste de soroconversão positivo
+11217;Lesão interna
+11234;Hepatite adenoviral
+11256;Varizes infectadas
+11365;Nível de antipsicóticos acima do terapêutico
+11514;Síndrome da infusão de propofol
+11839;Enterocolite helmíntica
+11969;Ecopraxia
+11980;Teste de trombocitopenia induzida por heparina
+11981;Teste de trombocitopenia induzida por heparina positivo
