@@ -1,0 +1,813 @@
+﻿codigo;nome
+http://purl.obolibrary.org/obo/CHEBI_6801;METFORMINA
+http://purl.obolibrary.org/obo/CHEBI_5118;FLUOXETINA
+http://purl.obolibrary.org/obo/DRON_00020192;VITAMINA D3
+http://purl.obolibrary.org/obo/CHEBI_3561;CETIRIZINE
+http://purl.obolibrary.org/obo/CHEBI_27300;VITAMINA D
+http://purl.obolibrary.org/obo/CHEBI_26216;POTÁSSIO
+http://purl.obolibrary.org/obo/CHEBI_50730;MONTELUCASTE
+http://purl.obolibrary.org/obo/CHEBI_37943;COLISTINA
+http://purl.obolibrary.org/obo/CHEBI_3723;CITALOPRAM
+http://purl.obolibrary.org/obo/CHEBI_46195;PARACETAMOL
+http://purl.obolibrary.org/obo/CHEBI_9943;VENLAFAXINA
+http://purl.obolibrary.org/obo/CHEBI_7915;PANTOPRAZOL
+http://purl.obolibrary.org/obo/CHEBI_2668;ANLODIPINO
+http://purl.obolibrary.org/obo/CHEBI_28445;VINCRISTINA
+http://purl.obolibrary.org/obo/CHEBI_37941;CLOPIDOGREL
+http://purl.obolibrary.org/obo/CHEBI_39548;ATORVASTATINA
+http://purl.obolibrary.org/obo/CHEBI_3127;BISOPROLOL
+http://purl.obolibrary.org/obo/CHEBI_16709;PIRIDOXINA
+http://purl.obolibrary.org/obo/CHEBI_9654;TRAZODONA
+http://purl.obolibrary.org/obo/DRON_00020050;IPILIMUMAB
+http://purl.obolibrary.org/obo/DRON_00723857;APIXABAN
+http://purl.obolibrary.org/obo/CHEBI_48416;OLMESARTAN
+http://purl.obolibrary.org/obo/CHEBI_41774;TAMOXIFENO
+http://purl.obolibrary.org/obo/CHEBI_205919;CLOBETASOL
+http://purl.obolibrary.org/obo/CHEBI_5790;HIDROMORFONA
+http://purl.obolibrary.org/obo/DRON_00018947;AMBRISENTANO
+http://purl.obolibrary.org/obo/CHEBI_47381;DICLOFENACO
+http://purl.obolibrary.org/obo/CHEBI_16714;CODEÍNA
+http://purl.obolibrary.org/obo/CHEBI_17303;MORFINA
+http://purl.obolibrary.org/obo/CHEBI_5818;HYDROXYZINE
+http://purl.obolibrary.org/obo/CHEBI_50275;ESOMEPRAZOL
+http://purl.obolibrary.org/obo/CHEBI_7852;OXICODONA
+http://purl.obolibrary.org/obo/DRON_00012887;INFLIXIMABE
+http://purl.obolibrary.org/obo/DRON_00019465;USTEKINUMAB
+http://purl.obolibrary.org/obo/CHEBI_50694;MINOCICLINA
+http://purl.obolibrary.org/obo/CHEBI_2663;AMIODARONE
+http://purl.obolibrary.org/obo/CHEBI_9667;TRIANCINOLONA
+http://purl.obolibrary.org/obo/DRON_00011800;ZOPICLONE
+http://purl.obolibrary.org/obo/DRON_00010111;HIDROXICLOROQUINA
+http://purl.obolibrary.org/obo/CHEBI_10125;ZOLPIDEM
+http://purl.obolibrary.org/obo/DRON_00723200;FERRO
+http://purl.obolibrary.org/obo/CHEBI_33234;VITAMINA E
+http://purl.obolibrary.org/obo/CHEBI_2379;ACEBUTOLOL
+http://purl.obolibrary.org/obo/CHEBI_9123;SERTRALINA
+http://purl.obolibrary.org/obo/CHEBI_28748;DOXORRUBICINA
+http://purl.obolibrary.org/obo/CHEBI_10033;VARFARINA
+http://purl.obolibrary.org/obo/CHEBI_9925;VALPROATO DE SÓDIO
+http://purl.obolibrary.org/obo/CHEBI_16962;CORTISONA
+http://purl.obolibrary.org/obo/DRON_00019123;ROMIPLOSTIM
+http://purl.obolibrary.org/obo/CHEBI_16796;MELATONINA
+http://purl.obolibrary.org/obo/DRON_00723183;CÁLCIO
+http://purl.obolibrary.org/obo/DRON_00018175;CITRATO DE CÁLCIO
+http://purl.obolibrary.org/obo/CHEBI_4708;DOXAZOSINA
+http://purl.obolibrary.org/obo/DRON_00018242;ONDANSETRONA
+http://purl.obolibrary.org/obo/DRON_00018971;ADALIMUMAB
+http://purl.obolibrary.org/obo/CHEBI_28001;VANCOMICINA
+http://purl.obolibrary.org/obo/DRON_00017834;MIDAZOLAM
+http://purl.obolibrary.org/obo/CHEBI_28304;HEPARINA
+http://purl.obolibrary.org/obo/CHEBI_5779;HIDROCODONA
+http://purl.obolibrary.org/obo/DRON_00017825;MECLIZINE
+http://purl.obolibrary.org/obo/DRON_00012992;IRINOTECANO
+http://purl.obolibrary.org/obo/CHEBI_46245;COENZIMA Q10
+http://purl.obolibrary.org/obo/DRON_00012653;NICARDIPINA
+http://purl.obolibrary.org/obo/CHEBI_42068;IDARUBICINA
+http://purl.obolibrary.org/obo/CHEBI_2637;AMICACINA
+http://purl.obolibrary.org/obo/CHEBI_478164;CEFEPIME
+http://purl.obolibrary.org/obo/DRON_00018916;POSACONAZOL
+http://purl.obolibrary.org/obo/DRON_00020042;BELIMUMABE
+http://purl.obolibrary.org/obo/CHEBI_2666;AMITRIPTILINA
+http://purl.obolibrary.org/obo/DRON_00017502;GRANISETRON
+http://purl.obolibrary.org/obo/DRON_00018241;DOCUSATO
+http://purl.obolibrary.org/obo/CHEBI_4784;ENALAPRIL
+http://purl.obolibrary.org/obo/CHEBI_15365;ASPIRINA
+http://purl.obolibrary.org/obo/DRON_00018918;PANITUMUMABE
+http://purl.obolibrary.org/obo/DRON_00730819;DABRAFENIB
+http://purl.obolibrary.org/obo/DRON_00016922;ETANERCEPTE
+http://purl.obolibrary.org/obo/CHEBI_15854;QUININO
+http://purl.obolibrary.org/obo/DRON_00723186;MAGNÉSIO
+http://purl.obolibrary.org/obo/DRON_00020281;EMTRICITABINA
+http://purl.obolibrary.org/obo/DRON_00018758;SOLIFENACIN
+http://purl.obolibrary.org/obo/CHEBI_35854;VALACICLOVIR
+http://purl.obolibrary.org/obo/DRON_00016931;TINZAPARINA
+http://purl.obolibrary.org/obo/CHEBI_6532;LOPERAMIDA
+http://purl.obolibrary.org/obo/DRON_00012681;TEICOPLANINA
+http://purl.obolibrary.org/obo/DRON_00012972;CASPOFUNGINA
+http://purl.obolibrary.org/obo/CHEBI_28384;VITAMINA K
+http://purl.obolibrary.org/obo/CHEBI_28934;VITAMINA D2
+http://purl.obolibrary.org/obo/CHEBI_2567;ÁCIDO ALENDRÔNICO
+http://purl.obolibrary.org/obo/CHEBI_27786;HIDROXOCOBALAMINA
+http://purl.obolibrary.org/obo/CHEBI_18243;DOPAMINA
+http://purl.obolibrary.org/obo/CHEBI_6933;MIDODRINA
+http://purl.obolibrary.org/obo/DRON_00017860;DOMPERIDONA
+http://purl.obolibrary.org/obo/CHEBI_5775;HIDRALAZINA
+http://purl.obolibrary.org/obo/CHEBI_5050;FEXOFENADINA
+http://purl.obolibrary.org/obo/DRON_00730827;IBRUTINIB
+http://purl.obolibrary.org/obo/DRON_00015249;LOXOPROFENO
+http://purl.obolibrary.org/obo/CHEBI_35176;SULFATO DE ZINCO
+http://purl.obolibrary.org/obo/DRON_00014158;GLICLAZIDA
+http://purl.obolibrary.org/obo/CHEBI_8768;RABEPRAZOL
+http://purl.obolibrary.org/obo/DRON_00018683;BORTEZOMIB
+http://purl.obolibrary.org/obo/CHEBI_6343;LABETALOL
+http://purl.obolibrary.org/obo/DRON_00730805;ALENDRONATO
+http://purl.obolibrary.org/obo/DRON_00013640;ÁCIDO ZOLEDRÔNICO
+http://purl.obolibrary.org/obo/DRON_00018970;PEGFILGRASTIM
+http://purl.obolibrary.org/obo/CHEBI_4710;DOXEPIN
+http://purl.obolibrary.org/obo/CHEBI_8461;PROMETHAZINE
+http://purl.obolibrary.org/obo/CHEBI_33568;ADRENALINA
+http://purl.obolibrary.org/obo/DRON_00017872;RISEDRONATO
+http://purl.obolibrary.org/obo/CHEBI_5956;IPRATRÓPIO
+http://purl.obolibrary.org/obo/DRON_00016597;COMPLEXO VITAMÍNICO B
+http://purl.obolibrary.org/obo/CHEBI_5417;GLUCOSAMINA
+http://purl.obolibrary.org/obo/CHEBI_7640;NORTRIPTYLINE
+http://purl.obolibrary.org/obo/CHEBI_47780;CLOMIPRAMINA
+http://purl.obolibrary.org/obo/CHEBI_4450;DESMOPRESSINA
+http://purl.obolibrary.org/obo/DRON_00016924;IBANDRONATO
+http://purl.obolibrary.org/obo/DRON_00016651;GLUCONATO FERROSO
+http://purl.obolibrary.org/obo/CHEBI_8499;PROPRANOLOL
+http://purl.obolibrary.org/obo/CHEBI_3223;BUSPIRONA
+http://purl.obolibrary.org/obo/DRON_00014319;AMISULPRIDA
+http://purl.obolibrary.org/obo/DRON_00017465;ACAMPROSATO
+http://purl.obolibrary.org/obo/CHEBI_6722;MEGESTROL
+http://purl.obolibrary.org/obo/DRON_00019228;CERTOLIZUMAB PEGOL
+http://purl.obolibrary.org/obo/CHEBI_3013;BENDROFLUMETIAZIDA
+http://purl.obolibrary.org/obo/DRON_00014129;HEROÍNA
+http://purl.obolibrary.org/obo/DRON_00017210;BENDAMUSTINA
+http://purl.obolibrary.org/obo/DRON_00018756;ERLOTINIB
+http://purl.obolibrary.org/obo/CHEBI_9398;TASULOSINA
+http://purl.obolibrary.org/obo/DRON_00016913;FILGRASTIM
+http://purl.obolibrary.org/obo/DRON_00018586;ESCITALOPRAM
+http://purl.obolibrary.org/obo/DRON_00020188;AXITINIBE
+http://purl.obolibrary.org/obo/DRON_00018685;TADALAFIL
+http://purl.obolibrary.org/obo/DRON_00020099;RIVAROXABANO
+http://purl.obolibrary.org/obo/CHEBI_4514;DICICLOMINA
+http://purl.obolibrary.org/obo/CHEBI_41977;DAUNORRUBICINA
+http://purl.obolibrary.org/obo/DRON_00018791;MICAFUNGINA
+http://purl.obolibrary.org/obo/CHEBI_8232;PIPERACILINA
+http://purl.obolibrary.org/obo/DRON_00017686;SEVELAMER
+http://purl.obolibrary.org/obo/DRON_00018834;SORAFENIBE
+http://purl.obolibrary.org/obo/DRON_00014515;BETAISTINA
+http://purl.obolibrary.org/obo/DRON_00012838;PAMIDRONATO
+http://purl.obolibrary.org/obo/DRON_00017641;DIPIRONA
+http://purl.obolibrary.org/obo/DRON_00012179;PLACEBO
+http://purl.obolibrary.org/obo/DRON_00017749;DIHIDROCODEÍNA
+http://purl.obolibrary.org/obo/DRON_00010944;LACIDIPINA
+http://purl.obolibrary.org/obo/DRON_00014609;CARBAZOCROMO
+http://purl.obolibrary.org/obo/DRON_00011910;BIPERIDEN
+http://purl.obolibrary.org/obo/CHEBI_9948;VERAPAMIL
+http://purl.obolibrary.org/obo/CHEBI_27306;VITAMINA B6
+http://purl.obolibrary.org/obo/DRON_00019437;TREPROSTINIL
+http://purl.obolibrary.org/obo/CHEBI_6807;METADONA
+http://purl.obolibrary.org/obo/DRON_00020286;LINACLOTIDE
+http://purl.obolibrary.org/obo/CHEBI_9332;SULFAMETOXAZOL
+http://purl.obolibrary.org/obo/DRON_00019004;LEVOCETIRIZINE
+http://purl.obolibrary.org/obo/CHEBI_3175;BRIMONIDINA
+http://purl.obolibrary.org/obo/CHEBI_28177;TEOFILINA
+http://purl.obolibrary.org/obo/CHEBI_40237;SITAGLIPTINA
+http://purl.obolibrary.org/obo/CHEBI_6970;MOMETASONA
+http://purl.obolibrary.org/obo/DRON_00014175;TIOTRÓPIO
+http://purl.obolibrary.org/obo/CHEBI_15765;LEVODOPA
+http://purl.obolibrary.org/obo/DRON_00723863;VEDOLIZUMAB
+http://purl.obolibrary.org/obo/CHEBI_3001;BECLOMETASONA
+http://purl.obolibrary.org/obo/DRON_00020129;ABATACEPT
+http://purl.obolibrary.org/obo/DRON_00010804;FLURAZEPAM
+http://purl.obolibrary.org/obo/DRON_00015230;CARBÔMERO
+http://purl.obolibrary.org/obo/CHEBI_28077;RIFAMPICIN
+http://purl.obolibrary.org/obo/CHEBI_4877;ETHAMBUTOL
+http://purl.obolibrary.org/obo/DRON_00013305;ACECLOFENACO
+http://purl.obolibrary.org/obo/DRON_00016203;FLECAINIDA
+http://purl.obolibrary.org/obo/DRON_00020285;ENZALUTAMIDA
+http://purl.obolibrary.org/obo/DRON_00017811;CETOROLACO
+http://purl.obolibrary.org/obo/CHEBI_4702;DORZOLAMIDA
+http://purl.obolibrary.org/obo/CHEBI_3011;BENAZEPRIL
+http://purl.obolibrary.org/obo/DRON_00010507;CLOBAZAM
+http://purl.obolibrary.org/obo/DRON_00020166;AFLIBERCEPT
+http://purl.obolibrary.org/obo/CHEBI_27958;COCAÍNA
+http://purl.obolibrary.org/obo/CHEBI_8024;PERINDOPRIL
+http://purl.obolibrary.org/obo/CHEBI_3048;BENZTROPINA
+http://purl.obolibrary.org/obo/DRON_00018841;LENALIDOMIDA
+http://purl.obolibrary.org/obo/DRON_00017540;FLUDARABINA
+http://purl.obolibrary.org/obo/DRON_00019864;DENOSUMABE
+http://purl.obolibrary.org/obo/DRON_00019221;INSULINA GLARGINA
+http://purl.obolibrary.org/obo/DRON_00017005;PIRIDOSTIGMINA
+http://purl.obolibrary.org/obo/DRON_00020261;CARFILZOMIB
+http://purl.obolibrary.org/obo/DRON_00011110;MIANSERINA
+http://purl.obolibrary.org/obo/DRON_00018039;COLAGÉNIO
+http://purl.obolibrary.org/obo/CHEBI_7447;NAFCILLIN
+http://purl.obolibrary.org/obo/DRON_00013598;LERCANIDIPINA
+http://purl.obolibrary.org/obo/DRON_00011132;MOXONIDINA
+http://purl.obolibrary.org/obo/CHEBI_175901;GEMCITABINA
+http://purl.obolibrary.org/obo/DRON_00019170;DEGARELIX
+http://purl.obolibrary.org/obo/DRON_00010798;FLUNITRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_28971;AMPICILINA
+http://purl.obolibrary.org/obo/DRON_00012997;BASILIXIMAB
+http://purl.obolibrary.org/obo/DRON_00015799;BROMAZEPAM
+http://purl.obolibrary.org/obo/DRON_00015735;NITRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_45652;SUCCINILCOLINA
+http://purl.obolibrary.org/obo/DRON_00018251;FUMARATO FERROSO
+http://purl.obolibrary.org/obo/DRON_00010354;BROTIZOLAM
+http://purl.obolibrary.org/obo/CHEBI_22907;BLEOMICINA
+http://purl.obolibrary.org/obo/CHEBI_9445;TERAZOSINA
+http://purl.obolibrary.org/obo/DRON_00017098;CICLIZINA
+http://purl.obolibrary.org/obo/DRON_00016886;GLUCONATO DE POTÁSSIO
+http://purl.obolibrary.org/obo/DRON_00019163;ELTROMBOPAG
+http://purl.obolibrary.org/obo/DRON_00730826;MACITENTAN
+http://purl.obolibrary.org/obo/CHEBI_15891;TAURINA
+http://purl.obolibrary.org/obo/DRON_00010566;DEFLAZACORT
+http://purl.obolibrary.org/obo/CHEBI_27375;VINBLASTINA
+http://purl.obolibrary.org/obo/DRON_00010490;CIPROFIBRATO
+http://purl.obolibrary.org/obo/DRON_00020006;ETEXILATO DABIGATRANO
+http://purl.obolibrary.org/obo/DRON_00018671;ETORICOXIBE
+http://purl.obolibrary.org/obo/CHEBI_102524;BUTALBITAL
+http://purl.obolibrary.org/obo/CHEBI_480999;VINORELBINA
+http://purl.obolibrary.org/obo/CHEBI_4470;DEXTROMETORFANO
+http://purl.obolibrary.org/obo/CHEBI_37445;FOLATO
+http://purl.obolibrary.org/obo/DRON_00019225;GOLIMUMABE
+http://purl.obolibrary.org/obo/DRON_00015867;SULPIRIDA
+http://purl.obolibrary.org/obo/CHEBI_474053;CEFAZOLIN
+http://purl.obolibrary.org/obo/CHEBI_51141;ALFUZOSINA
+http://purl.obolibrary.org/obo/DRON_00019230;TOLVAPTAN
+http://purl.obolibrary.org/obo/DRON_00016225;FOSFENITOÍNA
+http://purl.obolibrary.org/obo/DRON_00016920;ANAKINRA
+http://purl.obolibrary.org/obo/CHEBI_2679;ANFETAMINA
+http://purl.obolibrary.org/obo/CHEBI_17334;PENICILINA
+http://purl.obolibrary.org/obo/DRON_00016163;PENICILINA
+http://purl.obolibrary.org/obo/DRON_00015650;GLUCONATO DE MAGNÉSIO
+http://purl.obolibrary.org/obo/DRON_00020314;PERAMPANEL
+http://purl.obolibrary.org/obo/DRON_00019500;OFATUMUMABE
+http://purl.obolibrary.org/obo/DRON_00017626;INSULINA DETEMIR
+http://purl.obolibrary.org/obo/CHEBI_7809;OXACILINA
+http://purl.obolibrary.org/obo/DRON_00020132;BRENTUXIMAB VEDOTINA
+http://purl.obolibrary.org/obo/DRON_00015585;FTALILATILTIAZOL
+http://purl.obolibrary.org/obo/DRON_00015922;TALIDOMIDA
+http://purl.obolibrary.org/obo/DRON_00012123;FLUVASTATINA
+http://purl.obolibrary.org/obo/DRON_00017779;UBIQUINOL
+http://purl.obolibrary.org/obo/DRON_00723861;SOFOSBUVIR
+http://purl.obolibrary.org/obo/DRON_00017616;ÓLEO DE PRÍMULA À NOITE
+http://purl.obolibrary.org/obo/CHEBI_9316;SUFENTANIL
+http://purl.obolibrary.org/obo/CHEBI_7459;NALOXONA
+http://purl.obolibrary.org/obo/DRON_00010143;ACENOCOUMAROL
+http://purl.obolibrary.org/obo/CHEBI_50885;FLUDROCORTISONA
+http://purl.obolibrary.org/obo/DRON_00011281;PEGASPARGASE
+http://purl.obolibrary.org/obo/CHEBI_8802;REMIFENTANIL
+http://purl.obolibrary.org/obo/CHEBI_5138;FLUVOXAMINA
+http://purl.obolibrary.org/obo/DRON_00014001;ALFACALCIDOL
+http://purl.obolibrary.org/obo/CHEBI_30660;TIROXINA
+http://purl.obolibrary.org/obo/CHEBI_209807;CEFOXITIN
+http://purl.obolibrary.org/obo/DRON_00017492;GLUTATIONA
+http://purl.obolibrary.org/obo/CHEBI_45081;PENTAMIDINA
+http://purl.obolibrary.org/obo/DRON_00020015;SAXAGLIPTINA
+http://purl.obolibrary.org/obo/DRON_00730832;ALBIGLUTIDA
+http://purl.obolibrary.org/obo/DRON_00016421;LOPINAVIR
+http://purl.obolibrary.org/obo/CHEBI_60654;VALPROATO
+http://purl.obolibrary.org/obo/DRON_00020255;MIRABEGRON
+http://purl.obolibrary.org/obo/DRON_00730859;DARATUMUMABE
+http://purl.obolibrary.org/obo/DRON_00016911;DALTEPARINA
+http://purl.obolibrary.org/obo/DRON_00730857;MEPOLIZUMAB
+http://purl.obolibrary.org/obo/DRON_00020176;TOCOFEROL
+http://purl.obolibrary.org/obo/CHEBI_27013;TOCOFEROL
+http://purl.obolibrary.org/obo/CHEBI_204928;CEFOTAXIMA
+http://purl.obolibrary.org/obo/DRON_00017037;AMBROXOL
+http://purl.obolibrary.org/obo/DRON_00018693;IMATINIBE
+http://purl.obolibrary.org/obo/CHEBI_28838;LUTEÍNA
+http://purl.obolibrary.org/obo/DRON_00010351;BROMPERIDOL
+http://purl.obolibrary.org/obo/CHEBI_5108;FLUOCINOLONA
+http://purl.obolibrary.org/obo/DRON_00016928;EPOETINA ALFA
+http://purl.obolibrary.org/obo/DRON_00020088;TELAPREVIR
+http://purl.obolibrary.org/obo/DRON_00020100;INDACATEROL
+http://purl.obolibrary.org/obo/DRON_00014650;CLORPROTIXENO
+http://purl.obolibrary.org/obo/DRON_00020139;CRIZOTINIBE
+http://purl.obolibrary.org/obo/DRON_00018976;DARBEPOETINA ALFA
+http://purl.obolibrary.org/obo/CHEBI_28300;GLUTAMINA
+http://purl.obolibrary.org/obo/DRON_00012892;VINDESINA
+http://purl.obolibrary.org/obo/CHEBI_100246;NORFLOXACINA
+http://purl.obolibrary.org/obo/DRON_00013638;CARMUSTINA
+http://purl.obolibrary.org/obo/DRON_00020018;ERIBULINA
+http://purl.obolibrary.org/obo/DRON_00013033;ASPARAGINASE
+http://purl.obolibrary.org/obo/DRON_00018678;EFALIZUMAB
+http://purl.obolibrary.org/obo/CHEBI_4670;DOBUTAMINA
+http://purl.obolibrary.org/obo/DRON_00730836;EMPAGLIFLOZINA
+http://purl.obolibrary.org/obo/DRON_00010699;EPOETINA BETA
+http://purl.obolibrary.org/obo/CHEBI_52993;LORMETAZEPAM
+http://purl.obolibrary.org/obo/DRON_00010986;LORMETAZEPAM
+http://purl.obolibrary.org/obo/DRON_00016025;TRIHEXYPHENIDYL
+http://purl.obolibrary.org/obo/DRON_00020315;TOFACITINIBE
+http://purl.obolibrary.org/obo/DRON_00020282;TENOFOVIR DISOPROXIL
+http://purl.obolibrary.org/obo/DRON_00018383;OSELTAMIVIR
+http://purl.obolibrary.org/obo/DRON_00011422;PRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_6809;METANFETAMINA
+http://purl.obolibrary.org/obo/CHEBI_50729;MITOXANTRONE
+http://purl.obolibrary.org/obo/CHEBI_9566;THIORIDAZINE
+http://purl.obolibrary.org/obo/CHEBI_51209;PSEUDOEFEDRINA
+http://purl.obolibrary.org/obo/CHEBI_9449;TERBUTALINA
+http://purl.obolibrary.org/obo/DRON_00010513;CLOFAZIMINA
+http://purl.obolibrary.org/obo/DRON_00018709;CINACALCET
+http://purl.obolibrary.org/obo/DRON_00019616;DALFAMPRIDINA
+http://purl.obolibrary.org/obo/CHEBI_17698;CLORANFENICOL
+http://purl.obolibrary.org/obo/CHEBI_8093;FENILEFRINA
+http://purl.obolibrary.org/obo/DRON_00018591;RASBURICASE
+http://purl.obolibrary.org/obo/DRON_00730842;BLINATUMOMAB
+http://purl.obolibrary.org/obo/CHEBI_4657;DISOPYRAMIDE
+http://purl.obolibrary.org/obo/CHEBI_33709;AMINOÁCIDO
+http://purl.obolibrary.org/obo/DRON_00012467;FEFPROCUMONA
+http://purl.obolibrary.org/obo/DRON_00020298;TAPENTADOL
+http://purl.obolibrary.org/obo/CHEBI_52010;CLORFENAMINA
+http://purl.obolibrary.org/obo/DRON_00016250;DIGITOXINA
+http://purl.obolibrary.org/obo/CHEBI_9588;TICLOPIDINA
+http://purl.obolibrary.org/obo/DRON_00017836;IMIPENEM
+http://purl.obolibrary.org/obo/CHEBI_47499;IMIPRAMINA
+http://purl.obolibrary.org/obo/CHEBI_25094;LISINA
+http://purl.obolibrary.org/obo/DRON_00016067;URAPIDIL
+http://purl.obolibrary.org/obo/DRON_00018759;NATALIZUMABE
+http://purl.obolibrary.org/obo/DRON_00015388;NEFOPAM
+http://purl.obolibrary.org/obo/DRON_00020177;DARUNAVIR
+http://purl.obolibrary.org/obo/CHEBI_51380;DOXILAMINA
+http://purl.obolibrary.org/obo/CHEBI_4885;ETHIONAMIDE
+http://purl.obolibrary.org/obo/DRON_00016919;TERIPARATIDA
+http://purl.obolibrary.org/obo/CHEBI_102166;TIOPENTAL
+http://purl.obolibrary.org/obo/DRON_00018948;ROTIGOTINA
+http://purl.obolibrary.org/obo/DRON_00016031;TRIMETAZIDINA
+http://purl.obolibrary.org/obo/CHEBI_6824;METENAMINA
+http://purl.obolibrary.org/obo/DRON_00019154;SILODOSINA
+http://purl.obolibrary.org/obo/DRON_00019019;DEXMETILFENIDATO
+http://purl.obolibrary.org/obo/DRON_00723864;CITRATO FÉRRICO
+http://purl.obolibrary.org/obo/DRON_00012101;CREATINA
+http://purl.obolibrary.org/obo/DRON_00013023;LENOGRASTIM
+http://purl.obolibrary.org/obo/DRON_00014712;CYAMEMAZINE
+http://purl.obolibrary.org/obo/DRON_00020081;ABIRATERONE
+http://purl.obolibrary.org/obo/DRON_00016693;ETOFENAMATE
+http://purl.obolibrary.org/obo/DRON_00014170;DESOGESTREL
+http://purl.obolibrary.org/obo/DRON_00012886;TIROFIBAN
+http://purl.obolibrary.org/obo/DRON_00020165;RUXOLITINIB
+http://purl.obolibrary.org/obo/DRON_00016223;OXIMETAZOLINA
+http://purl.obolibrary.org/obo/DRON_00730823;LIPEGFILGRASTIM
+http://purl.obolibrary.org/obo/DRON_00016879;ÁCIDO CLVULÂNICO
+http://purl.obolibrary.org/obo/DRON_00730847;PANOBINOSTAT
+http://purl.obolibrary.org/obo/DRON_00019169;PLERIXAFOR
+http://purl.obolibrary.org/obo/DRON_00017763;MESCOPOLAMINA
+http://purl.obolibrary.org/obo/DRON_00014412;CLORATO DE POTÁSSIO
+http://purl.obolibrary.org/obo/DRON_00016180;ZICONOTIDE
+http://purl.obolibrary.org/obo/CHEBI_127780;FOSCARNET
+http://purl.obolibrary.org/obo/CHEBI_63609;MEFLOQUINA
+http://purl.obolibrary.org/obo/DRON_00011047;MEPREDNISONA
+http://purl.obolibrary.org/obo/DRON_00020009;LURASIDONA
+http://purl.obolibrary.org/obo/DRON_00011638;TETRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_3437;CARTEOLOL
+http://purl.obolibrary.org/obo/CHEBI_7627;NORETHISTERONA
+http://purl.obolibrary.org/obo/DRON_00020128;RILPIVIRINA
+http://purl.obolibrary.org/obo/CHEBI_3181;BROMOCRIPTINA
+http://purl.obolibrary.org/obo/DRON_00011432;PROCARBAZINA
+http://purl.obolibrary.org/obo/DRON_00012655;NOMEGESTROL
+http://purl.obolibrary.org/obo/DRON_00017685;FENILPROPANOLAMINA
+http://purl.obolibrary.org/obo/DRON_00017004;PROCICLIDINA
+http://purl.obolibrary.org/obo/DRON_00015627;PRISTINAMICINA
+http://purl.obolibrary.org/obo/DRON_00011913;TETRADECIL SULFATO DE SÓDIO
+http://purl.obolibrary.org/obo/CHEBI_4856;ESMOLOL
+http://purl.obolibrary.org/obo/CHEBI_32150;TIOSSULFATO DE SÓDIO
+http://purl.obolibrary.org/obo/DRON_00016915;INTERFERÃO ALFA-2A
+http://purl.obolibrary.org/obo/DRON_00015231;MAPROTILINA
+http://purl.obolibrary.org/obo/DRON_00018981;IXABEPILONE
+http://purl.obolibrary.org/obo/DRON_00015228;MANIDIPINA
+http://purl.obolibrary.org/obo/DRON_00016914;GLATIRAMER
+http://purl.obolibrary.org/obo/DRON_00020093;FIDAXOMICINA
+http://purl.obolibrary.org/obo/DRON_00723678;ETILENOGLICOL
+http://purl.obolibrary.org/obo/DRON_00018283;BRROMENÁS
+http://purl.obolibrary.org/obo/DRON_00015229;GLUCOMANANO
+http://purl.obolibrary.org/obo/DRON_00013488;AMLEXANOX
+http://purl.obolibrary.org/obo/DRON_00012637;GLIQUIDONE
+http://purl.obolibrary.org/obo/DRON_00013576;DIHIDROERGOCORNINA
+http://purl.obolibrary.org/obo/DRON_00015692;DIHIDROERGOCRISTINA
+http://purl.obolibrary.org/obo/DRON_00015266;PERICIAZINA
+http://purl.obolibrary.org/obo/CHEBI_36588;PSEUDOCETONA CÍCLICA
+http://purl.obolibrary.org/obo/CHEBI_35676;BENZAZEPINA
+http://purl.obolibrary.org/obo/CHEBI_35505;HIDRATO
+http://purl.obolibrary.org/obo/CHEBI_48630;CEPEDINECARBOXYLATE ESTER
+http://purl.obolibrary.org/obo/CHEBI_38530;QUINAZOLINAS
+http://purl.obolibrary.org/obo/CHEBI_26151;PIPERIDINAS
+http://purl.obolibrary.org/obo/CHEBI_24864;IODOTIRONINA
+http://purl.obolibrary.org/obo/CHEBI_46848;N-ARILPIPERAZINA
+http://purl.obolibrary.org/obo/CHEBI_38418;1,3-TIAZOL
+http://purl.obolibrary.org/obo/CHEBI_24505;HEPARINAS
+http://purl.obolibrary.org/obo/CHEBI_25384;ÁCIDO MONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_36683;COMPOSTO ORGANOCLORADO
+http://purl.obolibrary.org/obo/CHEBI_23424;CIANETOS
+http://purl.obolibrary.org/obo/CHEBI_33308;ESTER CARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_25865;ÁCIDOS PENICILÂNICOS
+http://purl.obolibrary.org/obo/CHEBI_23229;CHROMANOL
+http://purl.obolibrary.org/obo/OBI_0000047;MATERIAL PROCESSADO
+http://purl.obolibrary.org/obo/CHEBI_64096;BENZODIOXINA
+http://purl.obolibrary.org/obo/CHEBI_32863;AMINA SECUNDÁRIA
+http://purl.obolibrary.org/obo/CHEBI_22702;BENZAMIDAS
+http://purl.obolibrary.org/obo/CHEBI_18379;NITRILO
+http://purl.obolibrary.org/obo/CHEBI_33575;ÁCIDO CARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_22160;ACETAMIDAS
+http://purl.obolibrary.org/obo/CHEBI_22475;AMIDA DE AMINOÁCIDOS
+http://purl.obolibrary.org/obo/CHEBI_24129;FURANOS
+http://purl.obolibrary.org/obo/CHEBI_46908;IMIDAZOPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_46920;N-METILPIPERAZINA
+http://purl.obolibrary.org/obo/CHEBI_22507;ANTIBIÓTICO AMINOGLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_36853;HIDROXI SECO-ESTERÓIDE
+http://purl.obolibrary.org/obo/CHEBI_51336;SULFATO METÁLICO
+http://purl.obolibrary.org/obo/CHEBI_51323;ALCALOIDE CINCHONA
+http://purl.obolibrary.org/obo/CHEBI_35855;ÉSTER L-VALINÍLICO
+http://purl.obolibrary.org/obo/CHEBI_52362;HETEROARENO ORTOFUNDIDO
+http://purl.obolibrary.org/obo/CHEBI_26421;PIRIDINAS
+http://purl.obolibrary.org/obo/CHEBI_55429;CEFAMICINA
+http://purl.obolibrary.org/obo/CHEBI_26455;PIRROL
+http://purl.obolibrary.org/obo/CHEBI_25340;METILPIRIDINAS
+http://purl.obolibrary.org/obo/CHEBI_36819;SECO-ERGOSTANO
+http://purl.obolibrary.org/obo/CHEBI_53291;2-HALOFENOL
+http://purl.obolibrary.org/obo/CHEBI_50265;BENZOTIADIAZINA
+http://purl.obolibrary.org/obo/CHEBI_24271;GLUCOSAMINAS
+http://purl.obolibrary.org/obo/CHEBI_48277;TRIAZOLOPYRAZINE
+http://purl.obolibrary.org/obo/CHEBI_35533;PROPANOLAMINA
+http://purl.obolibrary.org/obo/CHEBI_35346;11BETA-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_61313;C21-ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_35972;ÁCIDO DIHIDROXI MONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_13248;ANILIDE
+http://purl.obolibrary.org/obo/CHEBI_46844;N-ACYLPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_22693;BARBITÚRICOS
+http://purl.obolibrary.org/obo/CHEBI_16389;UBIQUINONAS
+http://purl.obolibrary.org/obo/CHEBI_35358;SULFONAMIDA
+http://purl.obolibrary.org/obo/CHEBI_47622;ACETADO ESTER
+http://purl.obolibrary.org/obo/CHEBI_36141;QUINONA
+http://purl.obolibrary.org/obo/CHEBI_24533;PEPTÍDEO CÍCLICO HETERODÉSICO
+http://purl.obolibrary.org/obo/CHEBI_25903;ANTIBIÓTICO PEPTÍDICO
+http://purl.obolibrary.org/obo/CHEBI_32876;AMINA TERCIÁRIA
+http://purl.obolibrary.org/obo/CHEBI_37793;ÁCIDO AMINOSSULFÔNICO
+http://purl.obolibrary.org/obo/CHEBI_39447;PIRIMIDINAS
+http://purl.obolibrary.org/obo/CHEBI_47788;3-OXO ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_46761;DIPEPTÍDEO
+http://purl.obolibrary.org/obo/CHEBI_29347;AMIDA DO ÁCIDO MONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_47787;11-OXO ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_50996;COMPOSTO AMINO TERCIÁRIO
+http://purl.obolibrary.org/obo/CHEBI_60911;COMPANHEIRO DE RAÇA
+http://purl.obolibrary.org/obo/CHEBI_24780;IMIDAZÓIS
+http://purl.obolibrary.org/obo/CHEBI_38768;FTALAZINAS
+http://purl.obolibrary.org/obo/CHEBI_50995;COMPOSTO AMINO SECUNDÁRIO
+http://purl.obolibrary.org/obo/CHEBI_22327;SULFETO DE ALQUILA
+http://purl.obolibrary.org/obo/CHEBI_22314;ÁTOMO DE METAL ALCALINO
+http://purl.obolibrary.org/obo/CHEBI_24261;CORTICOSTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_31577;DERIVADOS DE ETILENODIAMINA
+http://purl.obolibrary.org/obo/CHEBI_37942;TIENOPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_46845;N-ALQUILPIPERAZINA
+http://purl.obolibrary.org/obo/CHEBI_25481;NAFTOQUINONA
+http://purl.obolibrary.org/obo/CHEBI_23089;PEPTÍDEO FORMADOR DE QUELATO
+http://purl.obolibrary.org/obo/CHEBI_36815;5-METOXICEREXOFENONA O-(2-AMINOETIL)OXIMA
+http://purl.obolibrary.org/obo/CHEBI_38830;1-BENZOFURANOS
+http://purl.obolibrary.org/obo/CHEBI_33836;COMPOSTO AROMÁTICO BENZENÓIDE
+http://purl.obolibrary.org/obo/CHEBI_46789;HIDROXIÉTER
+http://purl.obolibrary.org/obo/CHEBI_24436;GUANIDINAS
+http://purl.obolibrary.org/obo/CHEBI_35342;17ALFA-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_38771;QUINOXALINAS
+http://purl.obolibrary.org/obo/CHEBI_39437;TOCOL
+http://purl.obolibrary.org/obo/CHEBI_27162;TRIPTAMINAS
+http://purl.obolibrary.org/obo/CHEBI_23045;CAROTENOIDES
+http://purl.obolibrary.org/obo/CHEBI_36181;SUCCINATO ESTER
+http://purl.obolibrary.org/obo/CHEBI_37485;HIDROXIANTRAQUINONAS
+http://purl.obolibrary.org/obo/CHEBI_25990;FENILETANOLAMINAS
+http://purl.obolibrary.org/obo/CHEBI_23066;CEFALOSPORINA
+http://purl.obolibrary.org/obo/CHEBI_24863;IODOFENOL
+http://purl.obolibrary.org/obo/CHEBI_38831;2-BENZOFURANOS
+http://purl.obolibrary.org/obo/CHEBI_38196;HIDROXIMETILPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_49168;DOPA
+http://purl.obolibrary.org/obo/CHEBI_55373;ISOXAZÓIS
+http://purl.obolibrary.org/obo/CHEBI_46746;TRIAZOLOPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_49322;ANTIBIÓTICO DE ANTRACICLINA
+http://purl.obolibrary.org/obo/CHEBI_23818;DIMETILXANTINA
+http://purl.obolibrary.org/obo/CHEBI_38093;FENOTIAZINAS
+http://purl.obolibrary.org/obo/CHEBI_36816;OXIMA O-ÉTER
+http://purl.obolibrary.org/obo/CHEBI_35344;21-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_26069;ÁCIDOS FOSFÔNICOS
+http://purl.obolibrary.org/obo/CHEBI_35287;ACILCOLINA
+http://purl.obolibrary.org/obo/CHEBI_22390;ALFA-D-GLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_35343;17BETA-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_50830;ESTEROIDE FLUORADO
+http://purl.obolibrary.org/obo/CHEBI_23334;COBALAMINAS
+http://purl.obolibrary.org/obo/CHEBI_47909;3-OXO DELTA(4)-ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_47956;TIOCARBOXAMIDA
+http://purl.obolibrary.org/obo/CHEBI_23981;ETANOLAMINAS
+http://purl.obolibrary.org/obo/CHEBI_36243;ESTER PROPANOATO
+http://purl.obolibrary.org/obo/CHEBI_50471;ARILAMINA PRIMÁRIA
+http://purl.obolibrary.org/obo/CHEBI_37622;CARBOXAMIDA
+http://purl.obolibrary.org/obo/CHEBI_47804;DIBENZOAZEPINA
+http://purl.obolibrary.org/obo/CHEBI_26580;RIFAMICINA
+http://purl.obolibrary.org/obo/CHEBI_38958;ALCALOIDE INDOLE
+http://purl.obolibrary.org/obo/CHEBI_36809;ANTIDEPRESSIVOS TRICÍCLICOS
+http://purl.obolibrary.org/obo/CHEBI_26961;TIOFENOS
+http://purl.obolibrary.org/obo/CHEBI_38164;COMPOSTO HETEROPENTACÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_26144;PIPERAZINAS
+http://purl.obolibrary.org/obo/CHEBI_25418;ALCALOIDE MORFINANO
+http://purl.obolibrary.org/obo/CHEBI_36786;TETRALINAS
+http://purl.obolibrary.org/obo/CHEBI_46668;ÉSTER DE AMINOÁCIDOS
+http://purl.obolibrary.org/obo/CHEBI_26375;PTERINAS
+http://purl.obolibrary.org/obo/CHEBI_22715;BENZIMIDAZÓIS
+http://purl.obolibrary.org/obo/CHEBI_35681;ÁLCOOL SECUNDÁRIO
+http://purl.obolibrary.org/obo/CHEBI_33567;CATECOLAMINA
+http://purl.obolibrary.org/obo/CHEBI_35359;CARBOXAMIDINA
+http://purl.obolibrary.org/obo/CHEBI_50893;AZAARENE
+http://purl.obolibrary.org/obo/CHEBI_24395;GLICOPEPTÍDEO ANTIBIÓTICO
+http://purl.obolibrary.org/obo/CHEBI_58956;ÂNION DE ÁCIDO GRAXO SATURADO DE CADEIA RAMIFICADA
+http://purl.obolibrary.org/obo/CHEBI_50858;CORTICOSTERÓIDE
+http://purl.obolibrary.org/obo/CHEBI_35267;ÍON QUATERNÁRIO DE AMÔNIO
+http://purl.obolibrary.org/obo/CHEBI_37142;COMPOSTO DE ORGANOIODO
+http://purl.obolibrary.org/obo/CHEBI_19255;PIRIMIDINA 2'-DEOXIRRIBONUCLEOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_26512;ÁCIDO QUINOLINOMONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_50047;COMPOSTO AMINO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_26895;TETRACICLINAS
+http://purl.obolibrary.org/obo/CHEBI_36244;ÁCIDO DICARBOXÍLICO MONOÉSTER
+http://purl.obolibrary.org/obo/CHEBI_33704;ALFA-AMINOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_33853;FENÓIS
+http://purl.obolibrary.org/obo/CHEBI_26513;QUINOLINAS
+http://purl.obolibrary.org/obo/CHEBI_38700;SAL DE SÓDIO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_46786;DIETHER
+http://purl.obolibrary.org/obo/CHEBI_48420;BIFENILTETRAZOL
+http://purl.obolibrary.org/obo/CHEBI_38926;DIBENZOOXEPINA
+http://purl.obolibrary.org/obo/CHEBI_35315;DEOXI HEXOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_25354;MINERALOCORTICOIDE
+http://purl.obolibrary.org/obo/CHEBI_38445;CROMENONA
+http://purl.obolibrary.org/obo/CHEBI_23765;QUINOLONA
+http://purl.obolibrary.org/obo/CHEBI_35624;AZASPIRO COMPOSTO
+http://purl.obolibrary.org/obo/CHEBI_35338;ANFETAMINAS
+http://purl.obolibrary.org/obo/CHEBI_50075;DIHIDROPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_27288;ALCALOIDE VINCA
+http://purl.obolibrary.org/obo/CHEBI_26878;ÁLCOOL TERCIÁRIO
+http://purl.obolibrary.org/obo/CHEBI_35987;DIAMINOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_25698;ÉTER
+http://purl.obolibrary.org/obo/CHEBI_48120;ANTRACICLINA
+http://purl.obolibrary.org/obo/CHEBI_36885;20-OXO ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_27933;ANTIBIÓTICO BETA-LACTÂMICO
+http://purl.obolibrary.org/obo/CHEBI_47779;AMINOGLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_32877;AMINA PRIMÁRIA
+http://purl.obolibrary.org/obo/CHEBI_37143;COMPOSTO ORGANOFLUORADO
+http://purl.obolibrary.org/obo/CHEBI_35813;SULFÓXIDO
+http://purl.obolibrary.org/obo/CHEBI_35500;1,4-BENZODIAZEPINONA
+http://purl.obolibrary.org/obo/CHEBI_48132;TETRACENOMICINA
+http://purl.obolibrary.org/obo/CHEBI_38182;MONOHIDROXIPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_46847;N-IMINOPIPERAZINA
+http://purl.obolibrary.org/obo/CHEBI_23480;CICLOHEXANÓIS
+http://purl.obolibrary.org/obo/CHEBI_59062;POLIMIXINA
+http://purl.obolibrary.org/obo/CHEBI_22723;ÁCIDOS BENZOICOS
+http://purl.obolibrary.org/obo/CHEBI_47017;TETRAIDROFURANOL
+http://purl.obolibrary.org/obo/CHEBI_51689;ENONA
+http://purl.obolibrary.org/obo/CHEBI_33640;GAIOLA POLICÍCLICA
+http://purl.obolibrary.org/obo/CHEBI_38482;ALCALOIDE INDÓLICO FUNDAMENTAL PAI
+http://purl.obolibrary.org/obo/CHEBI_37332;ALCALOIDE TROPANO
+http://purl.obolibrary.org/obo/CHEBI_24631;HIDRAZINAS
+http://purl.obolibrary.org/obo/CHEBI_35689;TETRAZÓIS
+http://purl.obolibrary.org/obo/CHEBI_35352;COMPOSTO DE AZOTO ORGANOAZOTADO
+http://purl.obolibrary.org/obo/CHEBI_35504;COMPOSTO DE ADIÇÃO
+http://purl.obolibrary.org/obo/CHEBI_38104;OXACICLO
+http://purl.obolibrary.org/obo/CHEBI_23213;ESTER COLINA
+http://purl.obolibrary.org/obo/CHEBI_51721;CETONA ALFA, BETA-INSATURADA
+http://purl.obolibrary.org/obo/CHEBI_24921;ALCALOIDE ISOQUINOLINA
+http://purl.obolibrary.org/obo/CHEBI_50264;TIAZIDA
+http://purl.obolibrary.org/obo/CHEBI_36841;11-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_37395;MUCOPOLISSACARÍDEO
+http://purl.obolibrary.org/obo/CHEBI_26912;OXOLANES
+http://purl.obolibrary.org/obo/CHEBI_26373;PTERIDINAS
+http://purl.obolibrary.org/obo/CHEBI_3992;CETONA CÍCLICA
+http://purl.obolibrary.org/obo/CHEBI_64365;COMPOSTO ARALQUILAMINO
+http://purl.obolibrary.org/obo/CHEBI_51959;COMPOSTO TRICÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_33261;COMPOSTO ORGANOSULFURADO
+http://purl.obolibrary.org/obo/CHEBI_22645;ARENECARBOXAMIDA
+http://purl.obolibrary.org/obo/CHEBI_22712;BENZENOS
+http://purl.obolibrary.org/obo/CHEBI_33318;ÁTOMO DO ELEMENTO DO GRUPO PRINCIPAL
+http://purl.obolibrary.org/obo/CHEBI_25693;COMPOSTO ORGÂNICO HETEROMONOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_35274;ÍON DE AMÔNIO
+http://purl.obolibrary.org/obo/CHEBI_23230;CHROMANES
+http://purl.obolibrary.org/obo/CHEBI_38337;PIRIMIDONA:
+http://purl.obolibrary.org/obo/CHEBI_33598;COMPOSTO CARBOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_58953;ÂNION DE ÁCIDO GRAXO SATURADO
+http://purl.obolibrary.org/obo/CHEBI_38166;COMPOSTO HETEROPOLICÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_32952;AMINA
+http://purl.obolibrary.org/obo/CHEBI_22565;ANSAMICINA
+http://purl.obolibrary.org/obo/CHEBI_35506;ALCALOIDE FUNDAMENTAL PAI
+http://purl.obolibrary.org/obo/CHEBI_60004;MISTURA
+http://purl.obolibrary.org/obo/CHEBI_24396;GLICOPEPTÍDEO
+http://purl.obolibrary.org/obo/CHEBI_24745;HIDROXIPIRIDINA
+http://purl.obolibrary.org/obo/CHEBI_35788;SECO-ESTERÓIDE
+http://purl.obolibrary.org/obo/CHEBI_24833;OXOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_50994;AMINOCOMPOSTO PRIMÁRIO
+http://purl.obolibrary.org/obo/CHEBI_22729;BENZOQUINONAS
+http://purl.obolibrary.org/obo/CHEBI_60979;ALFA-GLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_25375;MENSAGEIRO MOLECULAR DA MONOAMINA
+http://purl.obolibrary.org/obo/CHEBI_38856;HALOFENOL
+http://purl.obolibrary.org/obo/BFO_0000040;ENTIDADE MATERIAL
+http://purl.obolibrary.org/obo/CHEBI_36684;COMPOSTO ORGANOHALOGÊNIO
+http://purl.obolibrary.org/obo/CHEBI_23232;CROMENOS
+http://purl.obolibrary.org/obo/CHEBI_33552;DERIVADO DO ÁCIDO SULFÔNICO
+http://purl.obolibrary.org/obo/CHEBI_35789;OXO ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_35790;OXAZOL
+http://purl.obolibrary.org/obo/CHEBI_25480;ANTIBIÓTICO NAFTOHIDROQUINONA
+http://purl.obolibrary.org/obo/CHEBI_22720;BENZODIAZEPÍNICOS
+http://purl.obolibrary.org/obo/CHEBI_22315;ALCALÓIDE
+http://purl.obolibrary.org/obo/CHEBI_36699;HORMÔNIO CORTICOSTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_38295;AZABICICLOALCANO
+http://purl.obolibrary.org/obo/CHEBI_33637;COMPOSTO ORTOFUNDIDO
+http://purl.obolibrary.org/obo/CHEBI_36585;PSEUDOCETONA
+http://purl.obolibrary.org/obo/CHEBI_24734;HIDROXIFENILALANINA
+http://purl.obolibrary.org/obo/CHEBI_33521;ÁTOMO DE METAL
+http://purl.obolibrary.org/obo/CHEBI_51143;ENTIDADE MOLECULAR DO NITROGÊNIO
+http://purl.obolibrary.org/obo/CHEBI_24840;SAL DE SULFATO INORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_38101;COMPOSTO HETEROCÍCLICO DE AZOTO ORGANOLIGADO
+http://purl.obolibrary.org/obo/CHEBI_33659;COMPOSTO AROMÁTICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_38180;HETEROARENO POLICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_48901;TIAZÓIS
+http://purl.obolibrary.org/obo/CHEBI_26440;NUCLEOSÍDEO DE PIRIMIDINA
+http://purl.obolibrary.org/obo/CHEBI_35722;GLICOSAMINOGLICANOS SULFATADOS
+http://purl.obolibrary.org/obo/CHEBI_24828;INDÓIS
+http://purl.obolibrary.org/obo/CHEBI_24862;IODOAMINOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_36838;17-HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_35627;BETA-LACTÂMICOS
+http://purl.obolibrary.org/obo/CHEBI_35990;COMPOSTO EM PONTE
+http://purl.obolibrary.org/obo/CHEBI_32988;AMIDA
+http://purl.obolibrary.org/obo/CHEBI_33559;ÁTOMO DO ELEMENTO S-BLOCK
+http://purl.obolibrary.org/obo/CHEBI_36586;COMPOSTO CARBONÍLICO
+http://purl.obolibrary.org/obo/CHEBI_24586;HEXOSAMINA
+http://purl.obolibrary.org/obo/CHEBI_2634;AMIDINA
+http://purl.obolibrary.org/obo/CHEBI_33256;AMIDA PRIMÁRIA
+http://purl.obolibrary.org/obo/CHEBI_35259;BENZOFURANOS
+http://purl.obolibrary.org/obo/CHEBI_46895;LIPOPEPTÍDEO
+http://purl.obolibrary.org/obo/CHEBI_36785;COMPOSTO CARBOBICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_23449;PEPTÍDEO CÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_35436;D-GLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_35701;ÉSTER
+http://purl.obolibrary.org/obo/CHEBI_38311;CEPHEM
+http://purl.obolibrary.org/obo/CHEBI_16385;SULFETO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_25348;METILXANTINA
+http://purl.obolibrary.org/obo/CHEBI_25359;AMINOÁCIDO MODIFICADO
+http://purl.obolibrary.org/obo/CHEBI_26714;SAL DE SÓDIO
+http://purl.obolibrary.org/obo/CHEBI_33599;COMPOSTO SPIRO
+http://purl.obolibrary.org/obo/CHEBI_38313;DIAZINAS
+http://purl.obolibrary.org/obo/CHEBI_35992;PENAMS
+http://purl.obolibrary.org/obo/CHEBI_25558;ANTIBIÓTICO HETEROCÍCLICO DE NITROGÊNIO ORGANOLÍQUIDO
+http://purl.obolibrary.org/obo/CHEBI_18274;2'-DESOXIRRIBONUCLEOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_22888;POLICLORADOS
+http://purl.obolibrary.org/obo/CHEBI_26509;ALCALOIDE QUINOLINA
+http://purl.obolibrary.org/obo/CHEBI_26188;POLICETÍDEO
+http://purl.obolibrary.org/obo/CHEBI_38106;COMPOSTO HETEROCÍCLICO ORGANOSULFURADO
+http://purl.obolibrary.org/obo/CHEBI_46874;ÉSTER DE ALFA-AMINOÁCIDOS
+http://purl.obolibrary.org/obo/CHEBI_24868;SAL ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_24062;ENTIDADE MOLECULAR DO FLÚOR
+http://purl.obolibrary.org/obo/CHEBI_35868;ÁCIDO HIDROXI MONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_36360;OXOÁCIDOS E DERIVADOS DE FÓSFORO
+http://purl.obolibrary.org/obo/CHEBI_58955;ÂNION DE ÁCIDO GRAXO DE CADEIA RAMIFICADA
+http://purl.obolibrary.org/obo/CHEBI_27171;COMPOSTO HETEROBICÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_33566;CATECÓIS
+http://purl.obolibrary.org/obo/CHEBI_26979;COMPOSTO HETEROTRICÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_22478;ÁLCOOL AMINO
+http://purl.obolibrary.org/obo/CHEBI_22580;ANTHRAQUINONE
+http://purl.obolibrary.org/obo/CHEBI_23117;ENTIDADE MOLECULAR DO CLORO
+http://purl.obolibrary.org/obo/CHEBI_39270;NAFTOFURANO
+http://purl.obolibrary.org/obo/CHEBI_33551;ÁCIDO ORGANOSSULFÔNICO
+http://purl.obolibrary.org/obo/CHEBI_33833;HETEROARENO
+http://purl.obolibrary.org/obo/CHEBI_23341;COBAMIDES
+http://purl.obolibrary.org/obo/CHEBI_35350;HIDROXI ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_23677;DIAZOL
+http://purl.obolibrary.org/obo/CHEBI_26469;COMPOSTO NITROGENADO QUATERNÁRIO
+http://purl.obolibrary.org/obo/CHEBI_25676;OLIGOPEPTÍDEO
+http://purl.obolibrary.org/obo/CHEBI_30879;ÁLCOOL
+http://purl.obolibrary.org/obo/CHEBI_50860;ENTIDADE MOLECULAR ORGÂNICA
+http://purl.obolibrary.org/obo/CHEBI_16670;PEPTÍDEO
+http://purl.obolibrary.org/obo/CHEBI_24860;ENTIDADE MOLECULAR DO IODO
+http://purl.obolibrary.org/obo/CHEBI_46754;AMIDA OCULTA
+http://purl.obolibrary.org/obo/CHEBI_23007;ANTIBIÓTICO CONTENDO CARBOIDRATOS
+http://purl.obolibrary.org/obo/CHEBI_33822;HIDROXICOMPOSTO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_24400;GLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_35341;ESTERÓIDE
+http://purl.obolibrary.org/obo/CHEBI_27325;XANTHOPHYLL
+http://purl.obolibrary.org/obo/CHEBI_36587;COMPOSTO DE OXO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_33838;NUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_33570;BENZENODIÓIS
+http://purl.obolibrary.org/obo/CHEBI_23044;CAROTENÓIDE
+http://purl.obolibrary.org/obo/CHEBI_64459;BIARYL
+http://purl.obolibrary.org/obo/CHEBI_17087;CETONA
+http://purl.obolibrary.org/obo/BFO_0000004;CONTÍNUO INDEPENDENTE
+http://purl.obolibrary.org/obo/CHEBI_51958;COMPOSTO POLICÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_33597;COMPOSTO HOMOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_36589;PSEUDOCETONA ACÍCLICA
+http://purl.obolibrary.org/obo/CHEBI_24866;SAL
+http://purl.obolibrary.org/obo/CHEBI_38443;1-BENZOPIRANO
+http://purl.obolibrary.org/obo/CHEBI_33702;CÁTION POLIATÔMICO
+http://purl.obolibrary.org/obo/CHEBI_26835;ENTIDADE MOLECULAR DO ENXOFRE
+http://purl.obolibrary.org/obo/CHEBI_33635;COMPOSTO POLICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_22728;BENZOPIROL
+http://purl.obolibrary.org/obo/CHEBI_26764;HORMÔNIO ESTEROIDE
+http://purl.obolibrary.org/obo/CHEBI_33250;ÁTOMO
+http://purl.obolibrary.org/obo/CHEBI_24651;HIDRÓXIDOS
+http://purl.obolibrary.org/obo/CHEBI_24662;HIDROXI-AMINOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_33636;COMPOSTO BICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_33670;COMPOSTO HETEROMONOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_33424;DERIVADO OXOÁCIDO DE ENXOFRE
+http://purl.obolibrary.org/obo/CHEBI_35175;SAL DE SULFATO
+http://purl.obolibrary.org/obo/CHEBI_51475;NAFTOHIDROQUINONA
+http://purl.obolibrary.org/obo/CHEBI_18059;LIPÍDIO
+http://purl.obolibrary.org/obo/CHEBI_38179;HETEROARENO MONOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_35293;COMPOSTO FUNDIDO
+http://purl.obolibrary.org/obo/CHEBI_36688;COMPOSTO HETEROTRICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_33671;COMPOSTO HETEROPOLICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_63534;MONOAMINA
+http://purl.obolibrary.org/obo/CHEBI_35294;COMPOSTO CARBOPOLICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_24471;ENTIDADE MOLECULAR HALÓGENA
+http://purl.obolibrary.org/obo/CHEBI_24470;HALOAMINOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_28868;ÂNION DE ÁCIDO GRAXO
+http://purl.obolibrary.org/obo/CHEBI_35479;SAL METÁLICO ALCALINO
+http://purl.obolibrary.org/obo/CHEBI_24278;GLICOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_18085;GLICOSAMINOGLICANOS
+http://purl.obolibrary.org/obo/CHEBI_59999;SUBSTÂNCIA QUÍMICA
+http://purl.obolibrary.org/obo/CHEBI_33582;ENTIDADE MOLECULAR DO GRUPO CARBONO
+http://purl.obolibrary.org/obo/CHEBI_37577;ENTIDADE MOLECULAR HETEROATÔMICA
+http://purl.obolibrary.org/obo/CHEBI_24922;ISOQUINOLINAS
+http://purl.obolibrary.org/obo/CHEBI_63299;DERIVADO DE CARBOIDRATOS
+http://purl.obolibrary.org/obo/CHEBI_26822;SULFETO
+http://purl.obolibrary.org/obo/CHEBI_26385;ALCALOIDE PURINA
+http://purl.obolibrary.org/obo/CHEBI_26082;ENTIDADE MOLECULAR DO FÓSFORO
+http://purl.obolibrary.org/obo/CHEBI_33285;ENTIDADE HETEROORGÂNICA
+http://purl.obolibrary.org/obo/CHEBI_23390;COBALTO-CORRINÓIDE HEXAAMIDA
+http://purl.obolibrary.org/obo/CHEBI_35724;SULFATO DE CARBOIDRATOS
+http://purl.obolibrary.org/obo/CHEBI_33655;COMPOSTO AROMÁTICO
+http://purl.obolibrary.org/obo/CHEBI_23636;DESOXIRRIBONUCLEOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_24531;ANTIBIÓTICO HETEROCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_24995;LACTAM
+http://purl.obolibrary.org/obo/CHEBI_35507;PRODUTO NATURAL FUNDAMENTAL PAI
+http://purl.obolibrary.org/obo/CHEBI_24669;ÁCIDO HIDROXICARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_46955;ANTRACENOS
+http://purl.obolibrary.org/obo/CHEBI_37578;HALETO
+http://purl.obolibrary.org/obo/CHEBI_36963;COMPOSTO ORGANOOXIGENADO
+http://purl.obolibrary.org/obo/CHEBI_36962;COMPOSTO ORGANOCHALCOGEN
+http://purl.obolibrary.org/obo/CHEBI_63161;COMPOSTO GLICOSIL
+http://purl.obolibrary.org/obo/CHEBI_33832;COMPOSTO CÍCLICO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_24532;COMPOSTO ORGÂNICO HETEROCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_25985;DERIVADO DE FENILALANINA
+http://purl.obolibrary.org/obo/CHEBI_51285;ACENOQUINONA
+http://purl.obolibrary.org/obo/CHEBI_24835;ENTIDADE MOLECULAR INORGÂNICA
+http://purl.obolibrary.org/obo/CHEBI_33302;ENTIDADE MOLECULAR PNICTOGÊNICA
+http://purl.obolibrary.org/obo/CHEBI_33672;COMPOSTO HETEROBICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_47018;MONOHIDROXITETRAIDROFURANO
+http://purl.obolibrary.org/obo/CHEBI_60926;MONOSSACARÍDEO AMINO
+http://purl.obolibrary.org/obo/CHEBI_49319;ANTIBIÓTICO CARBOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_26712;ENTIDADE MOLECULAR DO SÓDIO
+http://purl.obolibrary.org/obo/CHEBI_61120;ENTIDADE MOLECULAR CONTENDO NUCLEOBASE
+http://purl.obolibrary.org/obo/CHEBI_26935;TETRATERPENÓIDE
+http://purl.obolibrary.org/obo/CHEBI_26820;SULFATOS
+http://purl.obolibrary.org/obo/CHEBI_25704;SULFATO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_22506;AMINOGLICANOS
+http://purl.obolibrary.org/obo/CHEBI_36820;MONTAGEM DO ANEL
+http://purl.obolibrary.org/obo/CHEBI_51269;ACENES
+http://purl.obolibrary.org/obo/BFO_0000030;OBJETO
+http://purl.obolibrary.org/obo/CHEBI_35313;HEXOSÍDEO
+http://purl.obolibrary.org/obo/CHEBI_22625;DIOL AROMÁTICO
+http://purl.obolibrary.org/obo/CHEBI_23443;AMIDA CÍCLICA
+http://purl.obolibrary.org/obo/CHEBI_24431;ENTIDADE QUÍMICA
+http://purl.obolibrary.org/obo/CHEBI_21731;COMPOSTO DE N-GLICOSIL
+http://purl.obolibrary.org/obo/BFO_0000002;CONTINUANT
+http://purl.obolibrary.org/obo/CHEBI_24646;HIDROQUINONAS
+http://purl.obolibrary.org/obo/CHEBI_33304;ENTIDADE MOLECULAR DO CALCOGÊNIO
+http://purl.obolibrary.org/obo/CHEBI_33675;ENTIDADE MOLECULAR P-BLOCK
+http://purl.obolibrary.org/obo/CHEBI_26401;PURINAS
+http://purl.obolibrary.org/obo/CHEBI_33245;MATRIZ ORGÂNICA FUNDAMENTAL
+http://purl.obolibrary.org/obo/CHEBI_33906;CORRINÓIDE DE COBALTO
+http://purl.obolibrary.org/obo/CHEBI_33595;COMPOSTO CÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_33296;ENTIDADE MOLECULAR DO METAL ALCALINO
+http://purl.obolibrary.org/obo/CHEBI_26819;ESTER SULFÚRICO
+http://purl.obolibrary.org/obo/CHEBI_35757;ÂNION ÁCIDO MONOCARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_33608;ENTIDADE MOLECULAR DO HIDROGÊNIO
+http://purl.obolibrary.org/obo/CHEBI_23367;ENTIDADE MOLECULAR
+http://purl.obolibrary.org/obo/CHEBI_28963;AÇÚCAR AMINO
+http://purl.obolibrary.org/obo/CHEBI_36358;ÍON POLIATÔMICO
+http://purl.obolibrary.org/obo/CHEBI_22727;BENZOPIRANO
+http://purl.obolibrary.org/obo/CHEBI_36357;ENTIDADE POLIATÔMICA
+http://purl.obolibrary.org/obo/CHEBI_33241;DERIVADO OXOÁCIDO
+http://purl.obolibrary.org/obo/CHEBI_36916;CÁTION
+http://purl.obolibrary.org/obo/CHEBI_33661;COMPOSTO MONOCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_38032;COMPOSTO CARBOTRICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_25806;ENTIDADE MOLECULAR DO OXIGÊNIO
+http://purl.obolibrary.org/obo/CHEBI_5686;COMPOSTO HETEROCÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_35295;COMPOSTO HOMOPOLICÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_35875;IMIDAZOPIRIMIDINA
+http://purl.obolibrary.org/obo/CHEBI_33909;METALOTETRAPIRROL
+http://purl.obolibrary.org/obo/CHEBI_23824;DIOL
+http://purl.obolibrary.org/obo/CHEBI_33913;CORRINÓIDE
+http://purl.obolibrary.org/obo/CHEBI_37826;DERIVADO DO ÁCIDO SULFÚRICO
+http://purl.obolibrary.org/obo/CHEBI_18154;POLISSACARÍDEO
+http://purl.obolibrary.org/obo/BFO_0000001;ENTIDADE
+http://purl.obolibrary.org/obo/CHEBI_29067;ÂNION ÁCIDO CARBOXÍLICO
+http://purl.obolibrary.org/obo/CHEBI_33890;ENTIDADE COORDENADORA DO COBALTO
+http://purl.obolibrary.org/obo/CHEBI_24870;ÍON
+http://purl.obolibrary.org/obo/CHEBI_26873;TERPENÓIDE
+http://purl.obolibrary.org/obo/CHEBI_37175;HIDRETO ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_33579;ENTIDADE MOLECULAR DO GRUPO PRINCIPAL
+http://purl.obolibrary.org/obo/CHEBI_33674;ENTIDADE MOLECULAR S-BLOCK
+http://purl.obolibrary.org/obo/CHEBI_33861;ENTIDADE COORDENADORA DO ELEMENTO DE TRANSIÇÃO
+http://purl.obolibrary.org/obo/CHEBI_33692;HIDRETOS
+http://purl.obolibrary.org/obo/CHEBI_35406;OXOANION
+http://purl.obolibrary.org/obo/CHEBI_33888;ENTIDADE MOLECULAR DO COBALTO
+http://purl.obolibrary.org/obo/CHEBI_24913;ISOPRENÓIDE
+http://purl.obolibrary.org/obo/CHEBI_33694;BIOMACROMOLÉCULA
+http://purl.obolibrary.org/obo/CHEBI_25696;ÂNION ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_36309;TETRAPIRROL CÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_22563;ÂNION
+http://purl.obolibrary.org/obo/CHEBI_33839;MACROMOLÉCULA
+http://purl.obolibrary.org/obo/CHEBI_25699;ÍON ORGÂNICO
+http://purl.obolibrary.org/obo/CHEBI_26932;TETRAPIRROL
+http://purl.obolibrary.org/obo/CHEBI_47882;POLIPIRROL CÍCLICO
+http://purl.obolibrary.org/obo/CHEBI_25741;ÓXIDO
+http://purl.obolibrary.org/obo/CHEBI_33273;ÂNION POLIATÔMICO
+http://purl.obolibrary.org/obo/CHEBI_33240;ENTIDADE COORDENADORA
+http://purl.obolibrary.org/obo/CHEBI_33497;ENTIDADE MOLECULAR DO ELEMENTO DE TRANSIÇÃO
+http://purl.obolibrary.org/obo/CHEBI_33767;ENTIDADE MOLECULAR DO GRUPO COBALTO
+http://purl.obolibrary.org/obo/CHEBI_33676;D-BLOCK ENTIDADE MOLECULAR
+http://purl.obolibrary.org/obo/CHEBI_38077;POLIPIRROL
+http://www.w3.org/2002/07/owl#Thing;COISA
